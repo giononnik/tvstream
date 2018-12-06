@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="რუსთავი 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="რუსთავი 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rustavi_2_logo.png/200px-Rustavi_2_logo.png" group-title="Georgian", რუსთავი 2
+#EXTINF:0 tvg-name="Rustavi 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rustavi_2_logo.png/200px-Rustavi_2_logo.png" group-title="Georgian",Rustavi 2
 http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 #EXTINF:0 tvg-name="Imedi" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Imedi" tvg-logo="https://i.pinimg.com/originals/d4/f1/34/d4f134c0419f0ff8b1999140ce130891.png" group-title="Georgian",Imedi
 http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
