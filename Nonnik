@@ -34,6 +34,8 @@ http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream.m3u8
 #EXTINF:0 tvg-name="Sony Movie Channel" tvg-language="English" tvg-country="USA" tvg-id="Sony Movie Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest?cb=20170110112428" group-title="US",Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+#EXTINF:0 tvg-name="Sony Sci-Fi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Sci-Fi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" group-title="Russian",Sony Sci-Fi
+http://www.interntv.ru/IPTV/s1_11/TV/index.m3u8?t=110&m=1544111638
 #EXTINF:0 tvg-name="Club 1" tvg-language="English" tvg-country="USA" tvg-id="Club 1" tvg-logo="http://former.marketing.bgca.org/Campaigns/TheClub/PublishingImages/theclub.jpg" group-title="US",Club 1
 http://5964ed3e60741.streamlock.net:1935/2001edge/2001MS_RTSP.stream/playlist.m3u8
 #EXTINF:0 tvg-name="Club 2" tvg-language="English" tvg-country="USA" tvg-id="Club 2" tvg-logo="http://former.marketing.bgca.org/Campaigns/TheClub/PublishingImages/theclub.jpg" group-title="US",Club 2
