@@ -16,7 +16,7 @@ http://video-4-206.http://live-4-101.rutube.ru/live-hls/OqbPvYJqJlgO3Qi2ScIEvg/1
 http://163.172.143.78:8081/tv/2x2/playlist.m3u8
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 http://video-4-206.rutube.ru/live-hls/eo3EU34COXtYZFWp_QjpnQ/1543546675/49/54879/move/four/dirs/upper/720x576.m3u8?i=750x420_1600000
-#EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="https://banner2.kisspng.com/20180603/vrb/kisspng-disney-channel-television-channel-disney-xd-the-wa-channel-logo-5b13c3f2c6c003.7335801515280220028141.jpg" group-title="Russian",Disney Channel
+#EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="https://i.pinimg.com/originals/35/88/37/358837ae59559512abddbbf192a4f625.png" group-title="Russian",Disney Channel
 http://92.43.140.249/s60/04.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian",STS
 http://92.43.140.249/s52/04.m3u8
