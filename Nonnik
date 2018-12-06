@@ -8,19 +8,19 @@ http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="https://bhf.io/data/avatars/o/80/80155.jpg?1530736410" group-title="Russian",Super
 
-#EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="" group-title="Russian",TNT4
 
-#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="" group-title="Russian",TNT
 
-#EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="" group-title="Russian",2x2
 
-#EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="" group-title="Russian",Friday
 
-#EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="" group-title="Russian",Disney Channel
 
-#EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="" group-title="Georgian",STS
 
-#EXTINF:0 tvg-name="Setanta Sports" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Setanta Sports" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports" tvg-logo="" group-title="Georgian",Setanta Sports
 
 #EXTINF:0 tvg-name="Setanta Sports+" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports+" tvg-logo="" group-title="Georgian",Imedi
 
