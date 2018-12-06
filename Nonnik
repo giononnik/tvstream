@@ -18,22 +18,22 @@ http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="" group-title="Russian",Disney Channel
 
-#EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="" group-title="Georgian",STS
+#EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="" group-title="Russian",STS
 
-#EXTINF:0 tvg-name="Setanta Sports" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports" tvg-logo="" group-title="Georgian",Setanta Sports
+#EXTINF:0 tvg-name="Setanta Sports" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports" tvg-logo="" group-title="Russian",Setanta Sports
 
-#EXTINF:0 tvg-name="Setanta Sports+" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports+" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Setanta Sports+" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports+" tvg-logo="" group-title="Russian",Setanta Sports+
 
-#EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="" group-title="Russian",Hunter & Fisherman
 
-#EXTINF:0 tvg-name="Food Network" tvg-language="Russian" tvg-country="Russia" tvg-id="Food Network" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Food Network" tvg-language="Russian" tvg-country="Russia" tvg-id="Food Network" tvg-logo="" group-title="Russian",Food Network
 
-#EXTINF:0 tvg-name="Adult Swim" tvg-language="English" tvg-country="USA" tvg-id="Adult Swim" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Adult Swim" tvg-language="English" tvg-country="USA" tvg-id="Adult Swim" tvg-logo="" group-title="US",Adult Swim
 
-#EXTINF:0 tvg-name="Adult Swim: Williams Stream" tvg-language="English" tvg-country="USA" tvg-id="Adult Swim: Williams Stream" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Adult Swim: Williams Stream" tvg-language="English" tvg-country="USA" tvg-id="Adult Swim: Williams Stream" tvg-logo="" group-title="US",Adult Swim: Williams Stream
 
-#EXTINF:0 tvg-name="Sony Movie Channel" tvg-language="English" tvg-country="USA" tvg-id="Sony Movie Channel" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Sony Movie Channel" tvg-language="English" tvg-country="USA" tvg-id="Sony Movie Channel" tvg-logo="" group-title="US",Sony Movie Channel
 
-#EXTINF:0 tvg-name="Club 1" tvg-language="English" tvg-country="USA" tvg-id="Club 1" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Club 1" tvg-language="English" tvg-country="USA" tvg-id="Club 1" tvg-logo="" group-title="US",Club 1
 
-#EXTINF:0 tvg-name="Club 2" tvg-language="English" tvg-country="USA" tvg-id="Club 2" tvg-logo="" group-title="Georgian",Imedi
+#EXTINF:0 tvg-name="Club 2" tvg-language="English" tvg-country="USA" tvg-id="Club 2" tvg-logo="" group-title="US",Club 2
