@@ -7,7 +7,7 @@ http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 #EXTINF:0 tvg-name="1 Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="1 Channel" tvg-logo="http://www.myvideo.ge/?CIA=1&ci_c=flsstreams&ci_d=services&ci_m=thumb&chan=gpb2hq" group-title="Georgian",1 Channel
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="https://bhf.io/data/avatars/o/80/80155.jpg?1530736410" group-title="Russian",Super
-http://live-4-201.rutube.ru/live-hls/OvoGezd4g-6SPEFOCsZ6XA/1544211857/49/55644/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
+https://video-4-105.rutube.ru/live-hls/XWyFT9Ossql3bUzpXGOBaA/1544329687/49/55661/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://video-4-206.rutube.ru/live-hls/5kN56KpeCOg_QqpafH13FQ/1543950062/49/55593/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
@@ -36,9 +36,3 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream.m3u8
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="US",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-name="Yule Log" tvg-language="English" tvg-country=USA" tvg-id="Yule Log" tvg-logo="https://i.pinimg.com/originals/61/b8/18/61b818ce59f5d2af6d3f20d01c790010.png" group-title="Holiday Special",Yule log
-https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CuMEevRgfIWUBI407nD7jMPIIlRyvtts-OZX1FLZ1f5GZsWcbOu-_Yq3m5jRma0l2FV8vybYOukCsN_x4yfYliGly3lYxABpgSH2tWuJUJ3bRSOfvuWeEiYbJEJSE2O3hnsKkJQlFM1MPalHIbc2_Xp6s9MR8kWq7Lo5FDYEco5QQSyGP9J2UPu8eAxyC7bZ8ikMTLCshhxRFgFC1UT6_a7Ej9mzwTDXPKRfHZSUWkMo2TpEaW4ZxeAWqquSHyr2EWrCjrG0gmqUmhoaNpIe97dgdyaRCIwBi9ICX4g3pEM7zGJ1QjsJEtCNwHasls5sTaSh5PV2I2Z79bTpTOU4PACTY7te4Egeb9qD8Gdfmh8ACCOvnCfO5j2FqhmDEWTKoozTw9PMUmnwwEmS3Z8DCuLhPcE4NswU9cyeU8OwsnRU0UOgMCXScqU709QIyB8vfxBVzqQmuu21uXdzMHkZH0rKcjqT8KbW3KtOhKcdsYrWRId3XTHnzxrDQPqKY-o33b0voQVJBm3lt2dmfjm1B6kHXozz_RK6w3Nw1KZjXXN6F4m12nio2pezdcQgYBLYIudCyRu_HcGt7NSGnXdHzOgvhacQ-35fBLTbD8Kxjk3NZdY4fMoGckfHvdBVgSRTelVdx-iqd_aG35ydOM8fm-N1f1UmyGW1u5SMqg20oUZWKpbw3KtbMc-e0lR9ELZ-giAfcDESebe7HN-p3Z7RlTipB-Ffqx37euqeQDtDeTc_VW647QhbpInDZYo8R8j95JdBYu-aesfFkBP2QEk0WTM20sbkjk0kljHxRuxUZFixLMblmHASEFz5FUpXMjOubCL8NjhWVWoaDAkuRokcdRJMdU7tKg.m3u8
-#EXTINF:0 tvg-name="Club 1" tvg-language="English" tvg-country="USA" tvg-id="Club 1" tvg-logo="http://former.marketing.bgca.org/Campaigns/TheClub/PublishingImages/theclub.jpg" group-title="US", Club 1
-http://5964ed3e60741.streamlock.net:1935/2001edge/2001MS_RTSP.stream/playlist.m3u8
-#EXTINF:0 tvg-name="Club 2" tvg-language="English" tvg-country="USA" tvg-id="Club 2" tvg-logo="http://former.marketing.bgca.org/Campaigns/TheClub/PublishingImages/theclub.jpg" group-title="US",Club 2
-http://5964ed3e60741.streamlock.net:1935/2001edge/2001DR_RTSP.stream/playlist.m3u8
