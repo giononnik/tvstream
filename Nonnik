@@ -40,5 +40,5 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://91.90.253.73:8080/CH670_std/index.m3u8
 #EXTINF:0 tvg-name="Match TV" tvg-language="Russian" tvg-country="Russia" tvg-id="Match TV" tvg-logo="http://toplogos.ru/images/logo-match-tv.png" group-title="Russian",Match TV
 http://91.90.253.73:8080/CH669_std/index.m3u8
-#EXTINF:0 tvg-name="Match Arena" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Arena" tvg-logo="" group-title="Russian",Match Arena
+#EXTINF:0 tvg-name="Match Arena" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Arena" tvg-logo="https://i.pinimg.com/originals/07/6f/df/076fdf297b447beee55bbbaf78627e3d.png" group-title="Russian",Match Arena
 https://livebar.pw/lba/123/g5/rumatcharena.m3u8
