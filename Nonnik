@@ -38,5 +38,5 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-name="Match Premier" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Premier" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/35/Матч%21_Премьер_%282018%29.png/revision/latest?cb=20180724113546&path-prefix=ru" group-title="Russian",Match Premier
 http://91.90.253.73:8080/CH670_std/index.m3u8
-#EXTINF:0 tvg-name="Match TV" tvg-language="Russian" tvg-country="Russia" tvg-id="Match TV" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/35/Матч%21_Премьер_%282018%29.png/revision/latest?cb=20180724113546&path-prefix=ru" group-title="Russian",Match TV
+#EXTINF:0 tvg-name="Match TV" tvg-language="Russian" tvg-country="Russia" tvg-id="Match TV" tvg-logo="http://toplogos.ru/images/logo-match-tv.png" group-title="Russian",Match TV
 http://91.90.253.73:8080/CH669_std/index.m3u8
