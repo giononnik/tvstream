@@ -42,5 +42,5 @@ http://91.90.253.73:8080/CH670_std/index.m3u8
 http://91.90.253.73:8080/CH669_std/index.m3u8
 #EXTINF:0 tvg-name="Match Arena" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Arena" tvg-logo="https://i.pinimg.com/originals/07/6f/df/076fdf297b447beee55bbbaf78627e3d.png" group-title="Russian",Match Arena
 https://livebar.pw/lba/123/g5/rumatcharena.m3u8
-#EXTINF:0 tvg-name="Match Game" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Game" tvg-logo="https://i.pinimg.com/originals/fb/77/03/fb7703f1c0fb73d3b98a76597bb3237f.png" group-title="Russian",Match Game
+#EXTINF:0 tvg-name="Match Game" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Game" tvg-logo="https://i.pinimg.com/originals/0a/a0/2c/0aa02cde6772c852d172200d9fc0e6b9.png" group-title="Russian",Match Game
 https://vip7stream.pw/lba/123/g2/igrarus.m3u8
