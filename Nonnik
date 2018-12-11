@@ -40,3 +40,5 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://91.90.253.73:8080/CH669_std/index.m3u8
 #EXTINF:0 tvg-name="Match Premier" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Premier" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/35/Матч%21_Премьер_%282018%29.png/revision/latest?cb=20180724113546&path-prefix=ru" group-title="Russian",Match Premier
 http://91.90.253.73:8080/CH670_std/index.m3u8
+#EXTINF:0 tvg-name="AMC" tvg-language="Russian" tvg-country="Russia" tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="Russian",AMC
+http://212.66.52.7:8000/play/a09v/index.m3u8
