@@ -44,3 +44,5 @@ http://91.90.253.73:8080/CH670_std/index.m3u8
 http://212.66.52.7:8000/play/a09v/index.m3u8
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/89/05/c6/8905c66ab94893ed963f44d9c34ff749.png" group-title="Russian",Amedia Premium
 http://92.43.140.249/s64/04.m3u8
+#EXTINF:0 tvg-name="Amedia Hit" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Hit" tvg-logo="https://i.pinimg.com/originals/1d/cb/e1/1dcbe1744388df20fb4ef2dc1b445f5c.png" group-title="Russian",Amedia Hit
+http://212.66.52.7:8000/play/a09m/index.m3u8
