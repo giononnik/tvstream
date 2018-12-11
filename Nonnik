@@ -32,7 +32,7 @@ http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream.m3u8
 #EXTINF:0 tvg-name="Sony Movie Channel" tvg-language="English" tvg-country="USA" tvg-id="Sony Movie Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest?cb=20170110112428" group-title="US",Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
-#EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="US",Red Bull TV
+#EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-name="Match TV" tvg-language="Russian" tvg-country="Russia" tvg-id="Match TV" tvg-logo="http://toplogos.ru/images/logo-match-tv.png" group-title="Russian",Match TV
 http://91.90.253.73:8080/CH669_std/index.m3u8
