@@ -44,5 +44,5 @@ http://212.66.52.7:8000/play/a09v/index.m3u8
 http://92.43.140.249/s64/04.m3u8
 #EXTINF:0 tvg-name="Amedia Hit" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Hit" tvg-logo="https://i.pinimg.com/originals/1d/cb/e1/1dcbe1744388df20fb4ef2dc1b445f5c.png" group-title="Russian",Amedia Hit
 http://212.66.52.7:8000/play/a09m/index.m3u8
-#EXTINF:0 tvg-name="Discovery Science" tvg-language="Russian" tvg-country="Russia" tvg-id="Discovery Science" tvg-logo=" " group-title="Russian",Discovery Science
+#EXTINF:0 tvg-name="Discovery Science" tvg-language="Russian" tvg-country="Russia" tvg-id="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="Russian",Discovery Science
 http://212.66.52.7:8000/play/a0es/index.m3u8
