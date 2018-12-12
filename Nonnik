@@ -48,3 +48,5 @@ http://212.66.52.7:8000/play/a09m/index.m3u8
 http://212.66.52.7:8000/play/a0es/index.m3u8
 #EXTINF:0 tvg-name="Fine Living" tvg-language="Russian" tvg-country="Russia" tvg-id="Fine Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="Russian",Fine Living
 http://92.43.140.249/s51/04.m3u8
+#EXTINF:0 tvg-name="Outdoor Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Outdoor Channel" tvg-logo="https://i.pinimg.com/originals/db/b9/54/dbb954e69fda2672d1d280b9c71d1000.png" group-title="Russian", Outdoor Channel
+http://212.66.52.7:8000/play/a0gw/index.m3u8
