@@ -8,8 +8,8 @@ http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://video-4-206.rutube.ru/live-hls/5kN56KpeCOg_QqpafH13FQ/1543950062/49/55593/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
-#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
-http://live-4-101.rutube.ru/live-hls/Wg4n-bmJ9TZQv2wGN7yj6w/1544550137/50/55724/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
+#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
+http://video-4-206.rutube.ru/live-hls/SWuR2bDfwk6Abtc8XHLpgg/1544801450/49/55753/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 http://163.172.143.78:8081/tv/2x2/playlist.m3u8
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
