@@ -40,21 +40,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://91.90.253.73:8080/CH669_std/index.m3u8
 #EXTINF:0 tvg-name="Match Premier" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Premier" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/35/Матч%21_Премьер_%282018%29.png/revision/latest?cb=20180724113546&path-prefix=ru" group-title="Russian",Match Premier
 http://91.90.253.73:8080/CH670_std/index.m3u8
-#EXTINF:0 tvg-name="AMC" tvg-language="Russian" tvg-country="Russia" tvg-id="AMC" tvg-logo="https://i.pinimg.com/originals/e3/16/0f/e3160ff2857da46ae3e7d1e1de7783e6.jpg" group-title="Russian",AMC
-http://212.66.52.7:8000/play/a09v/index.m3u8
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/89/05/c6/8905c66ab94893ed963f44d9c34ff749.png" group-title="Russian",Amedia Premium
 http://92.43.140.249/s64/04.m3u8
-#EXTINF:0 tvg-name="Amedia Hit" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Hit" tvg-logo="https://i.pinimg.com/originals/1d/cb/e1/1dcbe1744388df20fb4ef2dc1b445f5c.png" group-title="Russian",Amedia Hit
-http://212.66.52.7:8000/play/a09m/index.m3u8
-#EXTINF:0 tvg-name="Discovery Science" tvg-language="Russian" tvg-country="Russia" tvg-id="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="Russian",Discovery Science
-http://212.66.52.7:8000/play/a0es/index.m3u8
 #EXTINF:0 tvg-name="Fine Living" tvg-language="Russian" tvg-country="Russia" tvg-id="Fine Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="Russian",Fine Living
 http://92.43.140.249/s51/04.m3u8
-#EXTINF:0 tvg-name="Outdoor Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Outdoor Channel" tvg-logo="https://i.pinimg.com/originals/db/b9/54/dbb954e69fda2672d1d280b9c71d1000.png" group-title="Russian", Outdoor Channel
-http://212.66.52.7:8000/play/a0gw/index.m3u8
 #EXTINF:0 tvg-name="MGM HD" tvg-language="Russian" tvg-country="Russia" tvg-id="MGM HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/62/MGM_HD_UK.png/revision/latest?cb=20150813201228" group-title="Russian",MGM HD
 http://91.90.253.73:8080/CH744_std/index.m3u8
-#EXTINF:0 tvg-name="Football 1" tvg-language="Ukrainian" tvg-country="Ukraine" tvg-id="Football 1" tvg-logo="https://i.pinimg.com/originals/fc/e1/d8/fce1d87b5c368f2f018719d6c4f52242.png" group-title="Ukrainian",Football 1
-http://195.144.21.159:8080/futbol1_ukr_hd/video.m3u8?token=sportmir
-#EXTINF:0 tvg-name="Football 2" tvg-language="Ukrainian" tvg-country="Ukraine" tvg-id="Football 2" tvg-logo="https://i.pinimg.com/originals/96/0a/1d/960a1dc935800c2a36ab0fe9b758581c.png" group-title="Ukrainian",Football 2
-http://195.144.21.159:8080/futbol2_ukr_hd/video.m3u8?token=sportmir
