@@ -56,4 +56,9 @@ http://91.90.253.66:8080/CH618_std/index.m3u8
 http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:0 tvg-name="Cooking Channel" tvg-language="English" tvg-country="USA" tvg-id="Cooking Channel" tvg-logo="https://i.pinimg.com/originals/12/dc/82/12dc82726750ff82e6cf089c281ce35c.png" group-title="US",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-
+#EXTINF:0 tvg-name="Discovery Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Discovery Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20151004060950&path-prefix=es" group-title="Russian",Discovery Channel
+http://91.90.253.66:8080/CH159_std/index.m3u8
+#EXTINF:0 tvg-name="National Geographic" tvg-language="Russian" tvg-country="Russia" tvg-id="National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-logo-natgeo-png-pluspng-com-logo-national-geographic-png-1000.png" group-title="Russian", National Geographic
+http://91.90.253.66:8080/CH157_std/index.m3u8
+#EXTINF:0 tvg-name="Animal Planet" tvg-language="Russian" tvg-country="Russia" tvg-id="Animal Planet" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/AP_logo_white.png" group-title="Russian",Animal Planet
+http://91.90.253.70:8080/CH155_std/index.m3u8
