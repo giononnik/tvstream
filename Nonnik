@@ -33,7 +33,7 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream.m3u8
 #EXTINF:0 tvg-name="Sony Movie Channel" tvg-language="English" tvg-country="USA" tvg-id="Sony Movie Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest?cb=20170110112428" group-title="US",Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:0 tvg-name="Sony SciFi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony SciFi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" group-title="Russian",Sony SciFi
-http://77.245.98.22:8000/play/534/index.m3u8
+http://91.90.253.66:8080/CH174_std/index.m3u8
 #EXTINF:0 tvg-name="Sony Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Channel" tvg-logo="https://i.pinimg.com/originals/b5/3b/97/b53b97cd36331fdd56831eff94229a6e.png" group-title="Russian",Sony Channel
 http://91.90.253.66:8080/CH176_std/index.m3u8
 #EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US",Red Bull TV
