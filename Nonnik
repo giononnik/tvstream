@@ -34,6 +34,8 @@ https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream.m3u8
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:0 tvg-name="Sony SciFi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony SciFi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" group-title="Russian",Sony SciFi
 http://77.245.98.22:8000/play/534/index.m3u8
+#EXTINF:0 tvg-name="Sony Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Channel" tvg-logo="https://i.pinimg.com/originals/b5/3b/97/b53b97cd36331fdd56831eff94229a6e.png" group-title="Russian",Sony Channel
+http://91.90.253.66:8080/CH176_std/index.m3u8
 #EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-name="Match TV" tvg-language="Russian" tvg-country="Russia" tvg-id="Match TV" tvg-logo="http://toplogos.ru/images/logo-match-tv.png" group-title="Russian", Match TV
