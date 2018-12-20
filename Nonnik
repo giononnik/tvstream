@@ -40,6 +40,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://91.90.253.73:8080/CH669_std/index.m3u8
 #EXTINF:0 tvg-name="Match Premier" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Premier" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/35/Матч%21_Премьер_%282018%29.png/revision/latest?cb=20180724113546&path-prefix=ru" group-title="Russian",Match Premier
 http://91.90.253.73:8080/CH670_std/index.m3u8
+#EXTINF:0 tvg-nane="Match Game" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Game" tvg-logo="https://i.pinimg.com/originals/1b/12/b9/1b12b984822e050b82b586d3c319a5a2.png" group-title="Russian",Match Game
+http://91.90.253.70:8080/CH609_std/index.m3u8
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/89/05/c6/8905c66ab94893ed963f44d9c34ff749.png" group-title="Russian",Amedia Premium
 http://92.43.140.249/s64/04.m3u8
 #EXTINF:0 tvg-name="Fine Living" tvg-language="Russian" tvg-country="Russia" tvg-id="Fine Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="Russian",Fine Living
@@ -49,7 +51,7 @@ http://91.90.253.73:8080/CH744_std/index.m3u8
 #EXTINF:0 tvg-name="VIP Comedy" tvg-language="Russian" tvg-country="Russia" tvg-id="VIP Comedy" tvg-logo="https://telecom.kz/img/main/channels/channel-img3.png" group-title="Russian",VIP Comedy
 http://hls-viasat.cdnvideo.ru/hls/relay/1502288433562/index.m3u8
 #EXTINF:0 tvg-name="VIP Premiere" tvg-language="Russian" tvg-country"Russia" tvg-id="VIP Premiere" tvg-logo="https://telecom.kz/img/main/channels/channel-img1.png" group-title="Russian",VIP Premiere
-http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+http://91.90.253.66:8080/CH618_std/index.m3u8
 #EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="USA" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2000px-ESPN_wordmark.svg.png" group-title="US",ESPN
 http://80.80.160.168/live/6/2500000/live.m3u8
 #EXTINF:0 tvg-name="Cooking Channel" tvg-language="English" tvg-country="USA" tvg-id="Cooking Channel" tvg-logo="https://i.pinimg.com/originals/12/dc/82/12dc82726750ff82e6cf089c281ce35c.png" group-title="US",Cooking Channel
