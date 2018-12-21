@@ -44,6 +44,12 @@ http://91.90.253.73:8080/CH669_std/index.m3u8
 http://91.90.253.73:8080/CH670_std/index.m3u8
 #EXTINF:0 tvg-nane="Match Game" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Game" tvg-logo="https://i.pinimg.com/originals/1b/12/b9/1b12b984822e050b82b586d3c319a5a2.png" group-title="Russian",Match Game
 http://91.90.253.70:8080/CH609_std/index.m3u8
+#EXTINF:0 tvg-nane="Match Soccer 1" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Soccer 1" tvg-logo="https://i.pinimg.com/originals/03/b2/cb/03b2cb532bb19067bb7bcdb133a0eb63.png" group-title="Russian",Match Soccer 1
+http://91.90.253.70:8080/CH162_std/index.m3u8
+#EXTINF:0 tvg-nane="Match Soccer 2" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Soccer 2" tvg-logo="https://i.pinimg.com/originals/6f/e7/c6/6fe7c61c0092f67f66de3eed9e7101a3.png" group-title="Russian",Match Soccer 2
+http://91.90.253.70:8080/CH169_std/index.m3u8
+#EXTINF:0 tvg-nane="Match Soccer 3" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Soccer 3" tvg-logo="https://i.pinimg.com/originals/68/90/52/689052bc84b816c6d9d73f6741629b1b.png" group-title="Russian",Match Soccer 3
+http://91.90.253.66:8080/CH615_std/index.m3u8
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/89/05/c6/8905c66ab94893ed963f44d9c34ff749.png" group-title="Russian",Amedia Premium
 http://91.90.253.66:8080/CH160_std/index.m3u8
 #EXTINF:0 tvg-name="Fine Living" tvg-language="Russian" tvg-country="Russia" tvg-id="Fine Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="Russian",Fine Living
