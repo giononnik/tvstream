@@ -32,7 +32,7 @@ http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream.m3u8
 #EXTINF:0 tvg-name="Sony Movie Channel" tvg-language="English" tvg-country="USA" tvg-id="Sony Movie Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest?cb=20170110112428" group-title="US",Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
-#EXTINF:0 tvg-name="Sony SciFi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony SciFi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" group-title="Russian",Sony SciFi
+#EXTINF:0 tvg-name="Sony Sci-Fi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Sci-Fi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" group-title="Russian",Sony Sci-Fi
 http://91.90.253.66:8080/CH174_std/index.m3u8
 #EXTINF:0 tvg-name="Sony Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Channel" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/2/24/Sony_Channel_%282015-.n.v.%29.png/revision/latest?cb=20180422085155" group-title="Russian",Sony Channel
 http://91.90.253.66:8080/CH176_std/index.m3u8
