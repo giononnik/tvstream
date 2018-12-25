@@ -1,4 +1,4 @@
-#EXTM3
+#EXTM3U
 
 #EXTINF:0 tvg-name="Imedi" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Imedi" tvg-logo="https://i.pinimg.com/originals/be/27/13/be2713fc7cbfef54316fe883a0e26411.png" group-title="Georgian", Imedi
 http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
@@ -13,7 +13,7 @@ http://video-4-305.rutube.ru/live-hls/a6fseuAGXaW-5Lcifr1dzw/1545605088/50/55983
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 http://46.32.68.167/s/live/23/86.169.51.136/2/0.m3u8
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
-http://video-4-305.rutube.ru/live-hls/h8WM5zG7Ufl1nlTTLxi-aQ/1545775105/49/56012/move/four/dirs/upper/720x576.m3u8?i=750x420_1600000
+http://video-4-206.rutube.ru/live-hls/eo3EU34COXtYZFWp_QjpnQ/1543546675/49/54879/move/four/dirs/upper/720x576.m3u8?i=750x420_1600000
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="https://i.pinimg.com/originals/35/88/37/358837ae59559512abddbbf192a4f625.png" group-title="Russian",Disney Channel
 http://92.43.140.249/s60/04.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
