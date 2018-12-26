@@ -40,6 +40,8 @@ http://91.90.253.66:8080/CH174_std/index.m3u8
 http://stream.euroasia.lfstrm.tv/sony_turbo/1/index.m3u8
 #EXTINF:0 tvg-name="Sony Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Channel" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/2/24/Sony_Channel_%282015-.n.v.%29.png/revision/latest?cb=20180422085155" group-title="Russian",Sony Channel
 http://91.90.253.66:8080/CH176_std/index.m3u8
+#EXTINF:0 tvg-name="AMC" tvg-language="Russian" tvg-country="Russia" tvg-id="AMC" tvg-logo="https://i.pinimg.com/originals/e3/16/0f/e3160ff2857da46ae3e7d1e1de7783e6.jpg" group-title="Russian",AMC
+http://91.90.253.66:8080/CH724_std/index.m3u8
 #EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-name="Match TV" tvg-language="Russian" tvg-country="Russia" tvg-id="Match TV" tvg-logo="http://toplogos.ru/images/logo-match-tv.png" group-title="Russian", Match TV
