@@ -30,7 +30,7 @@ http://176.111.72.14:8000/udp/239.255.0.12:5500
 http://92.43.140.249/s62/04.m3u8
 #EXTINF:0 tvg-name="Food Network" tvg-language="Russian" tvg-country="Russia" tvg-id="Food Network" tvg-logo="https://i.pinimg.com/originals/55/d4/c3/55d4c3622116377cab47b740ba94bc68.png" group-title="Russian", Food Network
 http://92.43.140.249/s18/04.m3u8
-#EXTINF:0 tvg-name="Adult Swim" tvg-language="English" tvg-country="USA" tvg-id="Adult Swim" tvg-logo="https://i.pinimg.com/originals/e5/10/11/e51011eff81e62660631358635b372cb.png" group-title="US",Adult Swim
+#EXTINF:0 tvg-name="Adult Swim" tvg-language="English" tvg-country="USA" tvg-id="Adult Swim" tvg-logo="https://i.pinimg.com/originals/e5/10/11/e51011eff81e62660631358635b372cb.png" group-title="US", Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
 #EXTINF:0 tvg-name="Adult Swim: Williams Stream" tvg-language="English" tvg-country="USA" tvg-id="Adult Swim: Williams Stream" tvg-logo="https://vignette.wikia.nocookie.net/theamazingworldofgumball/images/c/cd/Adult-swim-logo.png/revision/20150701174233" group-title="US", Adult Swim: Williams Stream
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream.m3u8
