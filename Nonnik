@@ -62,6 +62,8 @@ http://91.90.253.70:8080/CH162_std/index.m3u8
 http://91.90.253.70:8080/CH169_std/index.m3u8
 #EXTINF:0 tvg-nane="Match Soccer 3" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Soccer 3" tvg-logo="https://i.pinimg.com/originals/68/90/52/689052bc84b816c6d9d73f6741629b1b.png" group-title="Russian",Match Soccer 3
 http://91.90.253.66:8080/CH615_std/index.m3u8
+#EXTINF:0 tvg-nane="Match Fighter" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Fighter" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/2/25/Матч%21_Боец_3.png/revision/latest?cb=20160512160211&format=original&path-prefix=ru" group-title="Russian",Match Fighter
+http://176.111.72.14:8000/udp/239.255.0.228:5500
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/89/05/c6/8905c66ab94893ed963f44d9c34ff749.png" group-title="Russian",Amedia Premium
 http://91.90.253.66:8080/CH160_std/index.m3u8
 #EXTINF:0 tvg-name="Fine Living" tvg-language="Russian" tvg-country="Russia" tvg-id="Fine Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="Russian",Fine Living
