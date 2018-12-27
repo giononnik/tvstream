@@ -14,6 +14,8 @@ http://video-4-206.rutube.ru/live-hls/5kN56KpeCOg_QqpafH13FQ/1543950062/49/55593
 http://video-4-305.rutube.ru/live-hls/a6fseuAGXaW-5Lcifr1dzw/1545605088/50/55983/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 http://46.32.68.167/s/live/23/86.169.51.136/2/0.m3u8
+#EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://superkanal.ru/bin/images/cool2x-footer.png" group-title="Russian",Super
+http://176.111.72.14:8000/udp/239.255.0.199:5500
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 http://video-4-306.rutube.ru/live-hls/J3vfSCveBH-oUFxY3y3JxA/1545775521/49/56012/move/four/dirs/upper/720x576.m3u8?i=750x420_1600000
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="https://i.pinimg.com/originals/35/88/37/358837ae59559512abddbbf192a4f625.png" group-title="Russian",Disney Channel
