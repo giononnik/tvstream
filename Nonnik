@@ -90,4 +90,7 @@ http://91.90.253.70:8080/CH155_std/index.m3u8
 http://stream.euroasia.lfstrm.tv/cartoon_network/1/index.m3u8
 #EXTINF:0 tvg-name="Nickelodeon" tvg-language="Russian" tvg-country="Russia" tvg-id="Nickelodeon" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/nickelodeon-logo-png-transparent.png" group-title="Russian", Nickelodeon
 http://stream.euroasia.lfstrm.tv/nickelodeon/1/index.m3u8
-
+#EXTINF:0 tvg-name="Wild Hunt" tvg-language="Russian" tvg-country="Russia" tvg-id="Wild Hunt" tvg-logo="https://i.pinimg.com/originals/13/d8/5d/13d85df801a4c6ce66e3e2b98baa55d4.png" group-title="Russian",Wild Hunt
+http://176.111.72.14:8000/udp/239.255.0.27:5500
+#EXTINF:0 tvg-name="Wild Fishing" tvg-language="Russian" tvg-country="Russia" tvg-id="Wild Fishing" tvg-logo="https://i.pinimg.com/originals/b8/88/21/b8882147067fcd82604a1e6cbc7f151e.png" group-title="Russian",Wild Fishing
+http://176.111.72.14:8000/udp/239.255.0.143:5500
