@@ -34,8 +34,6 @@ http://92.43.140.249/s18/04.m3u8
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
 #EXTINF:0 tvg-name="Adult Swim: Williams Stream" tvg-language="English" tvg-country="USA" tvg-id="Adult Swim: Williams Stream" tvg-logo="https://vignette.wikia.nocookie.net/theamazingworldofgumball/images/c/cd/Adult-swim-logo.png/revision/20150701174233" group-title="US", Adult Swim: Williams Stream
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream.m3u8
-#EXTINF:0 tvg-name="FX" tvg-language="English" tvg-country="USA" tvg-id="FX" tvg-logo="https://i.pinimg.com/originals/c1/06/72/c106722b1bd2e5f29ab155b7d0460bbf.png" group-title="US",FX
-http://190.13.120.114/streams/fx.m3u8
 #EXTINF:0 tvg-name="Sony Movie Channel" tvg-language="English" tvg-country="USA" tvg-id="Sony Movie Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Sony_Movie_Channel_2016_logo.png/revision/latest?cb=20170110112428" group-title="US", Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:0 tvg-name="Sony Sci-Fi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Sci-Fi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" group-title="Russian",Sony Sci-Fi
@@ -90,3 +88,4 @@ http://91.90.253.70:8080/CH155_std/index.m3u8
 http://stream.euroasia.lfstrm.tv/cartoon_network/1/index.m3u8
 #EXTINF:0 tvg-name="Nickelodeon" tvg-language="Russian" tvg-country="Russia" tvg-id="Nickelodeon" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/nickelodeon-logo-png-transparent.png" group-title="Russian", Nickelodeon
 http://stream.euroasia.lfstrm.tv/nickelodeon/1/index.m3u8
+
