@@ -96,5 +96,5 @@ http://stream.euroasia.lfstrm.tv/nickelodeon/1/index.m3u8
 http://176.111.72.14:8000/udp/239.255.0.27:5500
 #EXTINF:0 tvg-name="Wild Fishing" tvg-language="Russian" tvg-country="Russia" tvg-id="Wild Fishing" tvg-logo="https://i.pinimg.com/originals/de/7d/4a/de7d4a0e5200568bd5715916104e8528.png" group-title="Russian",Wild Fishing
 http://176.111.72.14:8000/udp/239.255.0.143:5500
-#EXTINF:0 tvg-name="Stand-Up TV" tvg-language="English" tvg-country="USA" tvg-id="Stand-Up TV" tvg-logo="https://i.pinimg.com/originals/f0/7d/61/f07d610d3fbcf58bf9eb0737dbe190cb.png" group-title="US", Stand-Up TV
+#EXTINF:0 tvg-name="Pluto TV" tvg-language="English" tvg-country="USA" tvg-id="Pluto TV" tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/Pluto_logo-white_675x675.png" group-title="US",Pluto TV
 http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
