@@ -14,8 +14,8 @@ http://video-4-206.rutube.ru/live-hls/5kN56KpeCOg_QqpafH13FQ/1543950062/49/55593
 http://video-4-305.rutube.ru/live-hls/a6fseuAGXaW-5Lcifr1dzw/1545605088/50/55983/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 http://46.32.68.167/s/live/23/86.169.51.136/2/0.m3u8
-#EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://superkanal.ru/bin/images/cool2x-footer.png" group-title="Russian",Super
-https://video-4-105.rutube.ru/live-hls/2lxh7YNMxxyC2L73PiKvQg/1547233693/50/56335/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
+#EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="USA" tvg-id="HBO" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hbo/logos/3p-logo._CB523425146_.png" group-title="US",HBO
+http://kstreams.tk:25461/angie/angie/5620
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 http://85.234.0.15/streaming/pyatnicaott/324/vh1w/playlist.m3u8
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="https://i.pinimg.com/originals/35/88/37/358837ae59559512abddbbf192a4f625.png" group-title="Russian",Disney Channel
