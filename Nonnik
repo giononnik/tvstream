@@ -108,7 +108,7 @@ http://91.90.253.70:8080/CH745_std/index.m3u8
 http://iptv1.mcx-ix.ru/mnogo-tv/index.m3u8
 #EXTINF:0 tvg-name="Cinematic Comedy" tvg-language="Russian" tvg-country="Russia" tvg-id="Cinematic Comedy" tvg-logo="https://i.pinimg.com/originals/b1/4a/f4/b14af47a8ee40c9d4b75f767582c3482.png" group-title="Russian",Cinematic Comedy
 http://iptv1.mcx-ix.ru/komediya/index.m3u8
-
-
+#EXTINF:0 tvg-name="Fox" tvg-language="Russian" tvg-country="Russia" tvg-id="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/2000px-FOX-Channel-Germany.svg.png" group-title="Russian",Fox
+http://213.59.140.53:8899/play/Fox_HD/index.m3u8
 
 
