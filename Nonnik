@@ -100,15 +100,8 @@ http://91.90.253.70:8080/CH155_std/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-name="Nickelodeon" tvg-language="Russian" tvg-country="Russia" tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png" group-title="Russian", Nickelodeon
 http://stream.euroasia.lfstrm.tv/nickelodeon/1/index.m3u8
-#EXTINF:0 tvg-name="Men's" tvg-language="Russian" tvg-country="Russia" tvg-id="Men's" tvg-logo="http://toplogos.ru/images/logo-telekanal-muzhskoy.png" group-title="Russian",Men's
-http://213.59.140.53:9999/play/Muzhskoj/40702627.m3u8
-#EXTINF:0 tvg-name="MovieMix" tvg-language="Russian" tvg-country="Russia" tvg-id="MovieMix" tvg-logo="hhttps://i.pinimg.com/originals/b9/2d/79/b92d79a24d9e8f40ba2dc1f8cbf84134.png" group-title="Russian",MovieMix
-http://iptv1.mcx-ix.ru/kinomix/mono.m3u8
-#EXTINF:0 tvg-name="Men's Cinema" tvg-language="Russian" tvg-country="Russia" tvg-id="Men's Cinema" tvg-logo="https://i.pinimg.com/originals/08/9e/10/089e10b8b88b368d17993f32399e9c3c.png" group-title="Russian",Men's Cinema
-http://91.90.253.70:8080/CH745_std/index.m3u8
-#EXTINF:0 tvg-name="Movieseries" tvg-language="Russian" tvg-country="Russia" tvg-id="Movieseries" tvg-logo="https://i.pinimg.com/originals/46/f4/49/46f4496cb644ddf3957ecf19df221091.png" group-title="Russian",Movieseries
-http://iptv1.mcx-ix.ru/mnogo-tv/index.m3u8
-#EXTINF:0 tvg-name="Cinematic Comedy" tvg-language="Russian" tvg-country="Russia" tvg-id="Cinematic Comedy" tvg-logo="https://i.pinimg.com/originals/b1/4a/f4/b14af47a8ee40c9d4b75f767582c3482.png" group-title="Russian",Cinematic Comedy
-http://iptv1.mcx-ix.ru/komediya/index.m3u8
+
+
+
 
 
