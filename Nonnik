@@ -6,15 +6,21 @@ http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 #EXTINF:0 tvg-name="1 Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="1 Channel" tvg-logo="http://www.myvideo.ge/?CIA=1&ci_c=flsstreams&ci_d=services&ci_m=thumb&chan=gpb2hq" group-title="Georgian", 1 Channel
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-name="Palitra News" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Palitra News" tvg-logo="http://mediameter.ge/sites/default/files/palitra_1.jpg" group-title="Georgian", Palitra News
-https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:0 tvg-name="Maestro" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Maestro" tvg-logo="https://i.pinimg.com/originals/e5/b1/3e/e5b13e8a3104a07e8e776e8f2bda7ad9.png" group-title="Georgian",Maestro
+https://tinyurl.com/y9pt3ox7
+#EXTINF:0 tvg-name="GDS" tvg-language="Georgian" tvg-country="Georgia" tvg-id="GDS" tvg-logo="https://i.pinimg.com/originals/70/7c/ba/707cba3dfd6aa6499343fbe90d577add.png" group-title="Georgian",GDS
+https://tinyurl.com/yd86yqrg
+#EXTINF:0 tvg-name="TV Pirveli" tvg-language="Georgian" tvg-country="Georgia" tvg-id="TV Pirveli" tvg-logo="https://i.pinimg.com/originals/01/c4/ab/01c4abde75d6ed0abd500fa7a1bdf2dc.png" group-title="Georgian",TV Pirveli
+https://tinyurl.com/y8wwr4m4
+#EXTINF:0 tvg-name="Silk Universal" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Silk Universal" tvg-logo="https://www.livesport.ge/tv/img/silkuniversal.png" group-title="Georgian",Silk Universal
+https://tinyurl.com/y8sxqjgx
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://video-4-206.rutube.ru/live-hls/5kN56KpeCOg_QqpafH13FQ/1543950062/49/55593/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
 http://video-4-305.rutube.ru/live-hls/a6fseuAGXaW-5Lcifr1dzw/1545605088/50/55983/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 http://46.32.68.167/s/live/23/86.169.51.136/2/0.m3u8
-#EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="USA" tvg-id="HBO" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hbo/logos/3p-logo._CB523425146_.png" group-title="US",HBO
+#EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="USA" tvg-id="HBO" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hbo/Logos/3p-logo._CB523425146_.png" group-title="US",HBO
 http://195.181.160.217:25461/cleon/cleon123/6108
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 http://85.234.0.15/streaming/pyatnicaott/324/vh1w/playlist.m3u8
