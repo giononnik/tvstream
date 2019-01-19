@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:0 tvg-name="Imedi" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Imedi" tvg-logo="https://i.pinimg.com/originals/be/27/13/be2713fc7cbfef54316fe883a0e26411.png" group-title="Georgian", Imedi
-http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
+http://tbs01-edge02.itdc.ge/imedihd/index.m3u8
 #EXTINF:0 tvg-name="Rustavi 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rustavi_2_logo.png/200px-Rustavi_2_logo.png" group-title="Georgian", Rustavi 2
-http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+http://tbs01-edge02.itdc.ge/rustavi2hqnew/index.m3u8
 #EXTINF:0 tvg-name="1 Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="1 Channel" tvg-logo="http://www.myvideo.ge/?CIA=1&ci_c=flsstreams&ci_d=services&ci_m=thumb&chan=gpb2hq" group-title="Georgian", 1 Channel
-https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Maestro" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Maestro" tvg-logo="https://i.pinimg.com/originals/ed/70/2f/ed702fd3993551c94d1f24c50f17f845.png" group-title="Georgian",Maestro
-https://tinyurl.com/y9pt3ox7
+http://188.93.94.131/maestro/index.m3u8
 #EXTINF:0 tvg-name="GDS" tvg-language="Georgian" tvg-country="Georgia" tvg-id="GDS" tvg-logo="https://i.pinimg.com/originals/70/7c/ba/707cba3dfd6aa6499343fbe90d577add.png" group-title="Georgian",GDS
-https://tinyurl.com/yd86yqrg
+http://188.93.94.131/gdstv/index.m3u8
 #EXTINF:0 tvg-name="TV Pirveli" tvg-language="Georgian" tvg-country="Georgia" tvg-id="TV Pirveli" tvg-logo="https://i.pinimg.com/originals/01/c4/ab/01c4abde75d6ed0abd500fa7a1bdf2dc.png" group-title="Georgian",TV Pirveli
-https://tinyurl.com/y8wwr4m4
+http://tbs01-edge02.itdc.ge/pirvelitv/index.m3u8
 #EXTINF:0 tvg-name="Silk Universal" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Silk Universal" tvg-logo="https://www.livesport.ge/tv/img/silkuniversal.png" group-title="Georgian",Silk Universal
-https://tinyurl.com/y8sxqjgx
+http://tbs01-edge02.itdc.ge/silk_sport4/index.m3u8
 #EXTINF:0 tvg-name="Third" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Third" tvg-logo="http://mesame.ge/wp-content/uploads/2018/12/ლოგო2.png" group-title="Georgian",Third
-https://tinyurl.com/yavqpqya
+http://tbs01-edge02.itdc.ge/axali2hq/index.m3u8
 #EXTINF:0 tvg-name="Marao" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Marao" tvg-logo="http://kinosrulad.com/uploads/posts/2017-04/1491138134_tv_marao.png" group-title="Georgian",Marao
-https://tinyurl.com/y7bnxzv7
+http://tbs01-edge02.itdc.ge/marao/index.m3u8
 #EXTINF:0 tvg-name="Voice of Abkhazia" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Voice of Abkhazia" tvg-logo="https://i.pinimg.com/originals/ca/f4/4b/caf44b96bde672843eb4700ac4b80ed6.png" group-title="Georgian",Voice of Abkhazia
-https://tinyurl.com/yamrj3b5
+http://tbs01-edge02.itdc.ge/abkhaz/index.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://video-4-206.rutube.ru/live-hls/5kN56KpeCOg_QqpafH13FQ/1543950062/49/55593/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
