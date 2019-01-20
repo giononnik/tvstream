@@ -82,7 +82,7 @@ http://91.90.253.70:8080/CH162_std/index.m3u8
 http://91.90.253.70:8080/CH169_std/index.m3u8
 #EXTINF:0 tvg-nane="Match Soccer 3" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Soccer 3" tvg-logo="https://i.pinimg.com/originals/68/90/52/689052bc84b816c6d9d73f6741629b1b.png" group-title="Russian",Match Soccer 3
 http://91.90.253.66:8080/CH615_std/index.m3u8
-#EXTINF:0 tvg-nane="ABC" tvg-language="English" tvg-country="USA" tvg-id="ABC" tvg-logo="https://i.pinimg.com/originals/f1/d1/05/f1d1056ac93f08ea38c422d17434beee.png" group-title="US", ABC
+#EXTINF:0 tvg-nane="ABC" tvg-language="English" tvg-country="USA" tvg-id="ABC" tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="US", ABC
 https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/89/05/c6/8905c66ab94893ed963f44d9c34ff749.png" group-title="Russian",Amedia Premium
 http://91.90.253.66:8080/CH160_std/index.m3u8
