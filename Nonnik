@@ -120,6 +120,8 @@ http://persik.by/stream/8682/252987/10368.m3u8
 http://persik.by/stream/8682/252987/278.m3u8
 #EXTINF:0 tvg-name="Cinematic Comedy" tvg-language="Russian" tvg-country="Russia" tvg-id="Cinematic Comedy" tvg-logo="https://i.pinimg.com/originals/b1/4a/f4/b14af47a8ee40c9d4b75f767582c3482.png" group-title="Russian",Cinematic Comedy
 http://persik.by/stream/8682/252987/292.m3u8
+#EXTINF:0 tvg-name="Moviepremiere" tvg-language="Russian" tvg-country="Russia" tvg-id="Moviepremiere" tvg-logo="https://i.pinimg.com/originals/56/db/27/56db27431c1169f19490fc582cae958f.png" group-title="Russian",Moviepremiere
+http://persik.by/stream/8682/252987/10240.m3u8
 #EXTINF:0 tvg-name="Fox" tvg-language="Russian" tvg-country="Russia" tvg-id="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/2000px-FOX-Channel-Germany.svg.png" group-title="Russian",Fox
 http://213.59.140.53:8899/play/Fox_HD/index.m3u8
 #EXTINF:0 tvg-name="Outdoor Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Outdoor Channel" tvg-logo="https://i.pinimg.com/originals/8e/55/e9/8e55e96cbe48e4492e7ea39bed1029df.png" group-title="Russian", Outdoor Channel
