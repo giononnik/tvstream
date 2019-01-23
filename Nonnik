@@ -31,7 +31,7 @@ http://195.181.160.217:25461/cleon/cleon123/6108
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 http://85.234.0.15/streaming/pyatnicaott/324/vh1w/playlist.m3u8
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="https://i.pinimg.com/originals/35/88/37/358837ae59559512abddbbf192a4f625.png" group-title="Russian",Disney Channel
-http://92.43.140.249/s60/04.m3u8
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/524/index.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
 http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:0 tvg-name="STS Love" tvg-language="Russian" tvg-country="Russia" tvg-id="STS Love" tvg-logo="http://www.ctcmedia.ru/upload/iblock/651/651669980b3cb4bb3d1cd732bcdaf338.png" group-title="Russian", STS Love
@@ -113,7 +113,7 @@ http://91.90.253.70:8080/CH155_std/index.m3u8
 #EXTINF:0 tvg-name="Cartoon Network" tvg-language="Russian" tvg-country="Russia" tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="Russian", Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-name="Nickelodeon" tvg-language="Russian" tvg-country="Russia" tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png" group-title="Russian", Nickelodeon
-http://stream.euroasia.lfstrm.tv/nickelodeon/1/index.m3u8
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/541/index.m3u8
 #EXTINF:0 tvg-name="MovieMix" tvg-language="Russian" tvg-country="Russia" tvg-id="MovieMix" tvg-logo="https://i.pinimg.com/originals/b9/2d/79/b92d79a24d9e8f40ba2dc1f8cbf84134.png" group-title="Russian",MovieMix
 http://persik.by/stream/8682/252987/608.m3u8
 #EXTINF:0 tvg-name="Men's Cinema" tvg-language="Russian" tvg-country="Russia" tvg-id="Men's Cinema" tvg-logo="https://i.pinimg.com/originals/08/9e/10/089e10b8b88b368d17993f32399e9c3c.png" group-title="Russian",Men's Cinema
