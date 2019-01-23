@@ -126,5 +126,5 @@ http://persik.by/stream/8682/252987/292.m3u8
 http://persik.by/stream/8682/252987/10240.m3u8
 #EXTINF:0 tvg-name="Fox" tvg-language="Russian" tvg-country="Russia" tvg-id="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/2000px-FOX-Channel-Germany.svg.png" group-title="Russian",Fox
 http://213.59.140.53:8899/play/Fox_HD/index.m3u8
-#EXTINF:0 tvg-name="Outdoor Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Outdoor Channel" tvg-logo="https://i.pinimg.com/originals/8e/55/e9/8e55e96cbe48e4492e7ea39bed1029df.png" group-title="Russian", Outdoor Channel
-http://streamer-hls.fregat.net/hls/outdoorhd.m3u8
+#EXTINF:0 tvg-name="Outdoor Channel" tvg-language="English" tvg-country="USA" tvg-id="Outdoor Channel" tvg-logo="https://i.pinimg.com/originals/7e/ee/ba/7eeeba020a29cfabd5c98e0d11beba60.png" group-title="US", Outdoor Channel
+http://190.13.120.115/streams/outdoor.m3u8
