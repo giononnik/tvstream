@@ -102,6 +102,8 @@ https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8?md5=aQJr8zCU2qyjrTrq
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
 #EXTINF:0 tvg-name="ESPN2" tvg-language="English" tvg-country="USA" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="US", ESPN2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="US",NBA TV
+http://203.154.243.32:8088/live/nba/index.m3u8
 #EXTINF:0 tvg-name="Cooking Channel" tvg-language="English" tvg-country="USA" tvg-id="Cooking Channel" tvg-logo="https://i.pinimg.com/originals/12/dc/82/12dc82726750ff82e6cf089c281ce35c.png" group-title="US",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:0 tvg-name="Discovery Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Discovery Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20151004060950&path-prefix=es" group-title="Russian",Discovery Channel
