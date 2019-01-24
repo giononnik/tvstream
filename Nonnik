@@ -119,7 +119,7 @@ http://91.90.253.70:8080/CH155_std/index.m3u8
 #EXTINF:0 tvg-name="Cartoon Network" tvg-language="Russian" tvg-country="Russia" tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="Russian", Cartoon Network
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-name="Nickelodeon" tvg-language="Russian" tvg-country="Russia" tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png" group-title="Russian", Nickelodeon
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/541/index.m3u8
+http://persik.by/stream/8682/252987/10420.m3u8
 #EXTINF:0 tvg-name="MovieMix" tvg-language="Russian" tvg-country="Russia" tvg-id="MovieMix" tvg-logo="https://i.pinimg.com/originals/b9/2d/79/b92d79a24d9e8f40ba2dc1f8cbf84134.png" group-title="Russian",MovieMix
 http://persik.by/stream/8682/252987/608.m3u8
 #EXTINF:0 tvg-name="Men's Cinema" tvg-language="Russian" tvg-country="Russia" tvg-id="Men's Cinema" tvg-logo="https://i.pinimg.com/originals/08/9e/10/089e10b8b88b368d17993f32399e9c3c.png" group-title="Russian",Men's Cinema
