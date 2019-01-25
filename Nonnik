@@ -97,9 +97,9 @@ http://91.90.253.73:8080/CH744_std/index.m3u8
 #EXTINF:0 tvg-name="VIP Comedy" tvg-language="Russian" tvg-country="Russia" tvg-id="VIP Comedy" tvg-logo="https://telecom.kz/img/main/channels/channel-img3.png" group-title="Russian",VIP Comedy
 http://hls-viasat.cdnvideo.ru/hls/relay/1502288433562/index.m3u8
 #EXTINF:0 tvg-name="VIP Premiere" tvg-language="Russian" tvg-country"Russia" tvg-id="VIP Premiere" tvg-logo="https://telecom.kz/img/main/channels/channel-img1.png" group-title="Russian",VIP Premiere
-http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+http://91.202.196.122:8000/play/a002/index.m3u8
 #EXTINF:0 tvg-name="VIP Megahit" tvg-language="Russian" tvg-country="Russia" tvg-id="VIP Megahit" tvg-logo="https://telecom.kz/img/main/channels/channel-img2.png" group-title="Russian",VIP Megahit
-https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8?md5=aQJr8zCU2qyjrTrqnmqEQQ&e=1541405785&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+http://91.202.196.122:8000/play/a003/index.m3u8
 #EXTINF:0 tvg-name="Pop" tvg-language="English" tvg-country="USA" tvg-id="Pop" tvg-logo="https://i.pinimg.com/originals/77/79/77/7779775b75deef80e5877b7b18f72f6f.png" group-title="US",Pop
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
 #EXTINF:0 tvg-name="ESPN2" tvg-language="English" tvg-country="USA" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="US", ESPN2
