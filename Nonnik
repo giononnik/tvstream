@@ -71,7 +71,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-name="Match TV" tvg-language="Russian" tvg-country="Russia" tvg-id="Match TV" tvg-logo="http://toplogos.ru/images/logo-match-tv.png" group-title="Russian", Match TV
-http://91.90.253.73:8080/CH669_std/index.m3u8
+http://live-4-102.rutube.ru/live-hls/mfxiCCPVE3VwOomBzkd31A/1548428715/49/56595/move/four/dirs/upper/720p.m3u8?i=1280x720_2800000
 #EXTINF:0 tvg-name="Match Premier" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Premier" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/35/Матч%21_Премьер_%282018%29.png/revision/latest?cb=20180724113546&path-prefix=ru" group-title="Russian",Match Premier
 http://91.90.253.73:8080/CH670_std/index.m3u8
 #EXTINF:0 tvg-nane="Match Game" tvg-language="Russian" tvg-country="Russia" tvg-id="Match Game" tvg-logo="https://i.pinimg.com/originals/1b/12/b9/1b12b984822e050b82b586d3c319a5a2.png" group-title="Russian",Match Game
@@ -111,7 +111,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:0 tvg-name="Discovery Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Discovery Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20151004060950&path-prefix=es" group-title="Russian",Discovery Channel
 http://91.90.253.66:8080/CH159_std/index.m3u8
 #EXTINF:0 tvg-name="National Geographic" tvg-language="Russian" tvg-country="Russia" tvg-id="National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-logo-natgeo-png-pluspng-com-logo-national-geographic-png-1000.png" group-title="Russian", National Geographic
-http://91.90.253.66:8080/CH157_std/index.m3u8
+http://persik.by/stream/8682/252987/10016.m3u8
 #EXTINF:0 tvg-name="Nat Geo Wild" tvg-language="Russian" tvg-country="Russia" tvg-id="Nat Geo Wild" tvg-logo="https://d2kl333iheywy2.cloudfront.net/assets/barkfest/natgeowild_logo-fafac2c51adbdd565d74cae282df0874.png" group-title="Russian",Nat Geo Wild
 http://91.202.196.122:8000/play/a015/index.m3u8
 #EXTINF:0 tvg-name="Animal Planet" tvg-language="Russian" tvg-country="Russia" tvg-id="Animal Planet" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/AP_logo_white.png" group-title="Russian",Animal Planet
