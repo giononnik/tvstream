@@ -59,7 +59,7 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
 #EXTINF:0 tvg-name="Sony Sci-Fi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Sci-Fi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" group-title="Russian",Sony Sci-Fi
 http://persik.by/stream/8682/252987/10449.m3u8
 #EXTINF:0 tvg-name="Sony Turbo" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Turbo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Sony_Turbo_2.png/revision/latest?cb=20161010184520" group-title="Russian",Sony Turbo
-http://persik.by/stream/8682/252987/10450.m3u8
+http://217.21.34.158:30000/SonyTurbo/index.m3u8
 #EXTINF:0 tvg-name="Sony Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Channel" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/2/24/Sony_Channel_%282015-.n.v.%29.png/revision/latest?cb=20180422085155" group-title="Russian",Sony Channel
 http://persik.by/stream/8682/252987/10448.m3u8
 #EXTINF:0 tvg-name="AMC" tvg-language="Russian" tvg-country="Russia" tvg-id="AMC" tvg-logo="https://i.pinimg.com/originals/e3/16/0f/e3160ff2857da46ae3e7d1e1de7783e6.jpg" group-title="Russian",AMC
