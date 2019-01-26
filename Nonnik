@@ -109,7 +109,7 @@ http://203.154.243.32:8088/live/nba/index.m3u8
 #EXTINF:0 tvg-name="Cooking Channel" tvg-language="English" tvg-country="USA" tvg-id="Cooking Channel" tvg-logo="https://i.pinimg.com/originals/12/dc/82/12dc82726750ff82e6cf089c281ce35c.png" group-title="US",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:0 tvg-name="Discovery Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Discovery Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20151004060950&path-prefix=es" group-title="Russian",Discovery Channel
-http://91.202.196.122:8000/play/a013/index.m3u8
+http://217.21.34.158:30000/DiscoveryHD/index.m3u8
 #EXTINF:0 tvg-name="National Geographic" tvg-language="Russian" tvg-country="Russia" tvg-id="National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-logo-natgeo-png-pluspng-com-logo-national-geographic-png-1000.png" group-title="Russian", National Geographic
 http://217.21.34.158:30000/NationalGeographicHD/index.m3u8
 #EXTINF:0 tvg-name="Nat Geo Wild" tvg-language="Russian" tvg-country="Russia" tvg-id="Nat Geo Wild" tvg-logo="https://d2kl333iheywy2.cloudfront.net/assets/barkfest/natgeowild_logo-fafac2c51adbdd565d74cae282df0874.png" group-title="Russian",Nat Geo Wild
