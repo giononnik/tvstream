@@ -111,9 +111,9 @@ http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:0 tvg-name="Discovery Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Discovery Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20151004060950&path-prefix=es" group-title="Russian",Discovery Channel
 http://91.202.196.122:8000/play/a013/index.m3u8
 #EXTINF:0 tvg-name="National Geographic" tvg-language="Russian" tvg-country="Russia" tvg-id="National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-logo-natgeo-png-pluspng-com-logo-national-geographic-png-1000.png" group-title="Russian", National Geographic
-http://persik.by/stream/8682/252987/10016.m3u8
+http://217.21.34.158:30000/NationalGeographicHD/index.m3u8
 #EXTINF:0 tvg-name="Nat Geo Wild" tvg-language="Russian" tvg-country="Russia" tvg-id="Nat Geo Wild" tvg-logo="https://d2kl333iheywy2.cloudfront.net/assets/barkfest/natgeowild_logo-fafac2c51adbdd565d74cae282df0874.png" group-title="Russian",Nat Geo Wild
-http://213.59.140.53:8899/play/Nat_Geo_Wild_HD/index.m3u8
+http://217.21.34.158:30000/NatGeoWildHD/index.m3u8
 #EXTINF:0 tvg-name="Animal Planet" tvg-language="Russian" tvg-country="Russia" tvg-id="Animal Planet" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/AP_logo_white.png" group-title="Russian",Animal Planet
 http://217.21.34.158:30000/AnimalPlanetHD/index.m3u8
 #EXTINF:0 tvg-name="Cartoon Network" tvg-language="Russian" tvg-country="Russia" tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="Russian", Cartoon Network
