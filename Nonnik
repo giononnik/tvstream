@@ -76,7 +76,7 @@ https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/89/05/c6/8905c66ab94893ed963f44d9c34ff749.png" group-title="Russian",Amedia Premium
 http://persik.by/stream/8682/252987/643.m3u8
-#EXTINF:0 tvg-name="Fine Living" tvg-language="Russian" tvg-country="Russia" tvg-id="Fine Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/1200px-Fine_Living_logo.svg.png" group-title="Russian",Fine Living
+#EXTINF:0 tvg-name="Fine Living" tvg-language="Russian" tvg-country="Russia" tvg-id="Fine Living" tvg-logo="https://i.pinimg.com/originals/e9/bb/6a/e9bb6aa99c7f28902659be4fd507da87.png" group-title="Russian",Fine Living
 http://92.43.140.249/s51/04.m3u8
 #EXTINF:0 tvg-name="MGM HD" tvg-language="Russian" tvg-country="Russia" tvg-id="MGM HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/62/MGM_HD_UK.png/revision/latest?cb=20150813201228" group-title="Russian", MGM HD
 http://91.90.253.73:8080/CH744_std/index.m3u8
