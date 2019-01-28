@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:0,MG Kino
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/gmgkino/mp4:gmgkino swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgkino live=1
+
+#EXTINF:0,GMG Hollywood
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/gmghlwd/mp4:gmghlwd swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmghlwd live=1
+
+#EXTINF:0,GMG Movies Club
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/gmgchld/mp4:gmgchld swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgchld live=1
+
+#EXTINF:0,Artarea Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-04.nl.myvideo.ge/dvrh264/artarea/mp4:artarea swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=artarea live=1
+
+#EXTINF:0,Ertsulovneba Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-03.nl.myvideo.ge/dvrh264/ertsulovneba/mp4:ertsulovneba swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=ertsulovneba live=1
+
+#EXTINF:0,Imervizia Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-03.nl.myvideo.ge/dvrh264/imervizia/mp4:imervizia swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=imervizia live=1
+
+#EXTINF:0,Qvemo Qartli Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/qvemoqartli/mp4:qvemoqartli swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=qvemoqartli live=1
+
+#EXTINF:0,GDS TV
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/gdstv/mp4:gdstv swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gdstv live=1
+
+#EXTINF:0,Tabula
+rtmp://$OPT:rtmp-raw=rtmp://edge01-04.nl.myvideo.ge/dvrh264/tabula/mp4:tabula swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tabula live=1
+
+#EXTINF:0,Maestro
+rtmp://$OPT:rtmp-raw=rtmp://edge01-03.nl.myvideo.ge/dvrh264/maestro/mp4:maestro swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=maestro live=1
+
+#EXTINF:0,Enkibenki
+rtmp://$OPT:rtmp-raw=rtmp://edge01-04.nl.myvideo.ge/dvrh264/enkibenki/mp4:enkibenki swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=enkibenki live=1
+
+#EXTINF:0,Gurjaani Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-03.nl.myvideo.ge/dvrh264/gurjaani/mp4:gurjaani swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gurjaani live=1
+
+#EXTINF:0,Rioni Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/rioni/mp4:rioni swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=rioni live=1
+
+#EXTINF:0,Trialeti Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/trialeti/mp4:trialeti swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=trialeti live=1
+
+#EXTINF:0,Caucasia
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/caucasia/mp4:caucasia swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=caucasia live=1
+
+#EXTINF:0,Quality Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-03.nl.myvideo.ge/dvrh264/elconavigator/mp4:elconavigator swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=elconavigator live=1
+
+#EXTINF:0,MyVideo
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/myvideo/mp4:myvideo swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=myvideo live=1
+
+#EXTINF:0,Voice of Abkhazia
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/afkhmahd/mp4:afkhmahd swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=afkhmahd live=1
+
+#EXTINF:0,Musicbox
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/musicbox/mp4:musicbox swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=musicbox live=1
+
+#EXTINF:0,Adjara Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/adjara/mp4:adjara swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=adjara live=1
+
+#EXTINF:0,New Comedy
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/axalihq/mp4:axalihq swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=axalihq live=1
+
+#EXTINF:0,TV 8
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/tv8channel/mp4:tv8channel swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv8channel live=1
+
+#EXTINF:0,TV 4
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/tv4/mp4:tv4 swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv4 live=1
+
+#EXTINF:0,TV 3
+rtmp://$OPT:rtmp-raw=rtmp://edge01-05.nl.myvideo.ge/dvrh264/tv3hq/mp4:tv3hq swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv3hq live=1
+
+#EXTINF:0,TV 11
+rtmp://$OPT:rtmp-raw=rtmp://edge01-04.nl.myvideo.ge/dvrh264/tv11/mp4:tv11 swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv11 live=1
+
+#EXTINF:0,IMEDI CLINIC
+rtmp://$OPT:rtmp-raw=rtmp://edge01-04.nl.myvideo.ge/dvrh264/imediclinic/mp4:imediclinic swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=imediclinic live=1
+
+#EXTINF:0,IMEDI
+rtmp://$OPT:rtmp-raw=rtmp://powerstream.iphonewebtown.com:1935/imedi/mystream
+
+#EXTINF:0,Imedi HQ
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/imedihq/mp4:imedihq swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=imedihq live=1
+
+#EXTINF:0,Rustavi 2
+rtmp://$OPT:rtmp-raw=rtmp://edge01-04.nl.myvideo.ge/dvrh264/rustavi2hq/mp4:rustavi2hq swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=rustavi2hq live=1
+
+#EXTINF:0,Gurcistan TV 2 Meore
+rtmp://$OPT:rtmp-raw=rtmp://edge01-03.nl.myvideo.ge/dvrh264/meore/mp4:meore swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=meore live=1
+
+#EXTINF:0,Gurcistan Tv
+rtmp://$OPT:rtmp-raw=rtmp://edge01-03.nl.myvideo.ge/dvrh264/kartuliarkhi/mp4:kartuliarkhi swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=kartuliarkhi live=1
+
+#EXTINF:0,Gurcistan Channel
+rtmp://$OPT:rtmp-raw=rtmp://edge01-04.nl.myvideo.ge/dvrh264/gt/mp4:gt swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gt live=1
+
+#EXTINF:0,GMG FOOTBALL
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/gmgfoot/mp4:gmgfoot swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgfoot live=1
+
+#EXTINF:0,GMG sport 1
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/gmgsport/mp4:gmgsport swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport live=1
+
+#EXTINF:0,GMG sport 2
+rtmp://$OPT:rtmp-raw=rtmp://edge01-02.nl.myvideo.ge/dvrh264/gmgsport2/mp4:gmgsport2 swfUrl=http://www.myvideo.ge/?act=dvrdvr/dvrH.swf?v=1.2 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gmgsport2 live=1
