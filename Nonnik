@@ -39,9 +39,9 @@ http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:0 tvg-name="STS Love" tvg-language="Russian" tvg-country="Russia" tvg-id="STS Love" tvg-logo="http://www.ctcmedia.ru/upload/iblock/651/651669980b3cb4bb3d1cd732bcdaf338.png" group-title="Russian", STS Love
 http://213.59.140.53:9999/play/STS_Love/index.m3u8
 #EXTINF:0 tvg-name="Setanta Sports" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports" tvg-logo="https://i.pinimg.com/originals/83/7f/f3/837ff3ab57d8348c02aabfec624713b2.png" group-title="Russian",Setanta Sports
-http://persik.by/stream/8682/252987/10314.m3u8
+https://185-82-203-145.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:0 tvg-name="Setanta Sports+" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports+" tvg-logo="https://i.pinimg.com/originals/c2/94/48/c29448e273e866993f23348785bd668f.png" group-title="Russian",Setanta Sports+
-http://persik.by/stream/8682/252987/10316.m3u8
+https://185-8-178-140.livesports24.online/setantaplusru.m3u8
 #EXTINF:0 tvg-name="Drive" tvg-language="Russian" tvg-country="Russia" tvg-id="Drive" tvg-logo="https://i.pinimg.com/originals/74/e0/3a/74e03a50846a03ab5d2eb0b27e3cf8c0.png" group-title="Russian",Drive
 http://213.59.140.53:9999/play/Drajv_TV/index.m3u8
 #EXTINF:0 tvg-name="Fishing & Hunting" tvg-language="Russian" tvg-country="Russia" tvg-id="Fishing & Hunting" tvg-logo="https://i.pinimg.com/originals/3f/02/14/3f0214b361515bb9ecc5baf20035eddf.png" group-title="Russian",Fishing & Hunting
