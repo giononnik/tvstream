@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:0 tvg-name="Imedi" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Imedi" tvg-logo="https://i.pinimg.com/originals/be/27/13/be2713fc7cbfef54316fe883a0e26411.png" group-title="Georgian", Imedi
+http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
+#EXTINF:0 tvg-name="Rustavi 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rustavi_2_logo.png/200px-Rustavi_2_logo.png" group-title="Georgian", Rustavi 2
+http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:0 tvg-name="1 Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="1 Channel" tvg-logo="http://www.myvideo.ge/?CIA=1&ci_c=flsstreams&ci_d=services&ci_m=thumb&chan=gpb2hq" group-title="Georgian", 1 Channel
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
+https://bl.rutube.ru/stream/10213616/c801a7087e29a097192d74c270fbc6c1/index.m3u8?scheme=https&s=99c5826f4fe09fdc5db225d33ee9fc55&e=1553621008
+#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
+https://bl.rutube.ru/stream/10213616/546602986e6a424d74d594876ddb3f04/index.m3u8?scheme=https&s=c2040073196e4a7cd06e8af723216988&e=1553620774
+#EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
+http://46.32.68.167/s/live/23/86.169.51.136/2/0.m3u8
+#EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="USA" tvg-id="HBO" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hbo/logos/3p-logo._CB523425146_.png" group-title="US", HBO
+http://161.0.157.6/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:0 tvg-name="HBO2" tvg-language="English" tvg-country="USA" tvg-id="HBO2" tvg-logo="https://i.pinimg.com/originals/66/c2/13/66c21384d5db73cbe5f05f8e3211ba8b.png" group-title="US", HBO2
+http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian", Friday
+http://85.234.0.15/streaming/pyatnicaott/324/vh1w/playlist.m3u8
+#EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="https://i.pinimg.com/originals/35/88/37/358837ae59559512abddbbf192a4f625.png" group-title="Russian",Disney Channel
+http://92.43.140.249/s60/04.m3u8
+#EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:0 tvg-name="STS Love" tvg-language="Russian" tvg-country="Russia" tvg-id="STS Love" tvg-logo="http://www.ctcmedia.ru/upload/iblock/651/651669980b3cb4bb3d1cd732bcdaf338.png" group-title="Russian", STS Love
+http://213.59.140.53:9999/play/STS_Love/index.m3u8
+#EXTINF:0 tvg-name="Setanta Sports" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports" tvg-logo="https://i.pinimg.com/originals/83/7f/f3/837ff3ab57d8348c02aabfec624713b2.png" group-title="Russian",Setanta Sports
+https://181-215-15-225.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:0 tvg-name="Setanta Sports+" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports+" tvg-logo="https://i.pinimg.com/originals/c2/94/48/c29448e273e866993f23348785bd668f.png" group-title="Russian",Setanta Sports+
+https://185-8-178-140.livesports24.online/setantaplusru.m3u8
+#EXTINF:0 tvg-name="Fishing & Hunting" tvg-language="Russian" tvg-country="Russia" tvg-id="Fishing & Hunting" tvg-logo="https://i.pinimg.com/originals/3f/02/14/3f0214b361515bb9ecc5baf20035eddf.png" group-title="Russian",Fishing & Hunting
+http://stream.euroasia.lfstrm.tv/ohota/1/index.m3u8
+#EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/9a/60/a8/9a60a8fbeff5576b4f994df7a38e1f72.png" group-title="Russian",Hunter & Fisherman
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0 tvg-name="Food Network" tvg-language="Russian" tvg-country="Russia" tvg-id="Food Network" tvg-logo="https://i.pinimg.com/originals/55/d4/c3/55d4c3622116377cab47b740ba94bc68.png" group-title="Russian", Food Network
+http://92.43.140.249/s18/04.m3u8
+#EXTINF:0 tvg-name="Adult Swim" tvg-language="English" tvg-country="USA" tvg-id="Adult Swim" tvg-logo="https://i.pinimg.com/originals/e5/10/11/e51011eff81e62660631358635b372cb.png" group-title="US", Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
+#EXTINF:0 tvg-name="Sony Sci-Fi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Sci-Fi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" group-title="Russian",Sony Sci-Fi
+http://213.59.140.53:9996/play/SONY_Sci-Fi/index.m3u8
+#EXTINF:0 tvg-name="Sony Turbo" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Turbo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Sony_Turbo_2.png/revision/latest?cb=20161010184520" group-title="Russian",Sony Turbo
+http://213.59.140.53:9996/play/SONY_Turbo/index.m3u8
+#EXTINF:0 tvg-name="Sony Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Channel" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/2/24/Sony_Channel_%282015-.n.v.%29.png/revision/latest?cb=20180422085155" group-title="Russian",Sony Channel
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fsonyhd&login=olgkama&key=wiUBmkU
+#EXTINF:0 tvg-name="AMC" tvg-language="Russian" tvg-country="Russia" tvg-id="AMC" tvg-logo="https://i.pinimg.com/originals/e3/16/0f/e3160ff2857da46ae3e7d1e1de7783e6.jpg" group-title="Russian",AMC
+http://91.90.253.66:8080/CH724_std/index.m3u8
+#EXTINF:0 tvg-name="VH1" tvg-language="English" tvg-country="USA" tvg-id="VH1" tvg-logo="https://www.streamys.org/wp-content/uploads/2012/08/VH1_White.png" group-title="US",VH1
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:0 tvg-name="CBS" tvg-language="English" tvg-country="USA" tvg-id="CBS" tvg-logo="https://i.pinimg.com/originals/76/bf/0e/76bf0e1080c15309b0b040da7bb75dd4.png" group-title="US",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 tvg-nane="ABC" tvg-language="English" tvg-country="USA" tvg-id="ABC" tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="US", ABC
+https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+#EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/89/05/c6/8905c66ab94893ed963f44d9c34ff749.png" group-title="Russian",Amedia Premium
+http://persik.by/stream/8682/252987/643.m3u8
+#EXTINF:0 tvg-name="Fine Living" tvg-language="Russian" tvg-country="Russia" tvg-id="Fine Living" tvg-logo="https://i.pinimg.com/originals/e9/bb/6a/e9bb6aa99c7f28902659be4fd507da87.png" group-title="Russian",Fine Living
+http://178.219.160.167:8080/FineLiving/index.m3u8
+#EXTINF:0 tvg-name="VIP Comedy" tvg-language="Russian" tvg-country="Russia" tvg-id="VIP Comedy" tvg-logo="https://telecom.kz/img/main/channels/channel-img3.png" group-title="Russian",VIP Comedy
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288433562/index.m3u8
+#EXTINF:0 tvg-name="VIP Premiere" tvg-language="Russian" tvg-country"Russia" tvg-id="VIP Premiere" tvg-logo="https://telecom.kz/img/main/channels/channel-img1.png" group-title="Russian",VIP Premiere
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+#EXTINF:0 tvg-name="VIP Megahit" tvg-language="Russian" tvg-country="Russia" tvg-id="VIP Megahit" tvg-logo="https://telecom.kz/img/main/channels/channel-img2.png" group-title="Russian",VIP Megahit
+https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8?md5=aQJr8zCU2qyjrTrqnmqEQQ&e=1541405785&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:0 tvg-name="ESPN2" tvg-language="English" tvg-country="USA" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="US", ESPN2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="US",NBA TV
+http://203.154.243.32:8088/live/nba/index.m3u8
+#EXTINF:0 tvg-name="Cooking Channel" tvg-language="English" tvg-country="USA" tvg-id="Cooking Channel" tvg-logo="https://i.pinimg.com/originals/12/dc/82/12dc82726750ff82e6cf089c281ce35c.png" group-title="US",Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:0 tvg-name="Discovery Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Discovery Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20151004060950&path-prefix=es" group-title="Russian",Discovery Channel
+http://kp0t.vladna.club:7003/discoverhd/playlist.m3u8?token=RZ0F2dPt6FCRQgio
+#EXTINF:0 tvg-name="National Geographic" tvg-language="Russian" tvg-country="Russia" tvg-id="National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-logo-natgeo-png-pluspng-com-logo-national-geographic-png-1000.png" group-title="Russian", National Geographic
+http://91.202.196.122:8000/play/a014/index.m3u8
+#EXTINF:0 tvg-name="Nat Geo Wild" tvg-language="Russian" tvg-country="Russia" tvg-id="Nat Geo Wild" tvg-logo="https://d2kl333iheywy2.cloudfront.net/assets/barkfest/natgeowild_logo-fafac2c51adbdd565d74cae282df0874.png" group-title="Russian",Nat Geo Wild
+http://217.21.34.158:30000/NatGeoWildHD/index.m3u8
+#EXTINF:0 tvg-name="Animal Planet" tvg-language="Russian" tvg-country="Russia" tvg-id="Animal Planet" tvg-logo="https://i.pinimg.com/originals/db/1c/31/db1c31478e43ab3a99c58328d82e78f9.png" group-title="Russian",Animal Planet
+http://217.21.34.158:30000/AnimalPlanetHD/index.m3u8
+#EXTINF:0 tvg-name="Cartoon Network" tvg-language="Russian" tvg-country="Russia" tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="Russian", Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-name="Nickelodeon" tvg-language="Russian" tvg-country="Russia" tvg-id="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png" group-title="Russian", Nickelodeon
+http://217.21.34.158:30000/NickelodeonHD/index.m3u8
+#EXTINF:0 tvg-name="Fox" tvg-language="Russian" tvg-country="Russia" tvg-id="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/2000px-FOX-Channel-Germany.svg.png" group-title="Russian",Fox
+http://178.219.160.167:8080/FOX/index.m3u8
+#EXTINF:0 tvg-name="Outdoor Channel" tvg-language="English" tvg-country="USA" tvg-id="Outdoor Channel" tvg-logo="https://i.pinimg.com/originals/7e/ee/ba/7eeeba020a29cfabd5c98e0d11beba60.png" group-title="US", Outdoor Channel
+http://190.13.120.115/streams/outdoor.m3u8
+
+
