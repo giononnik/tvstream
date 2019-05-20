@@ -19,7 +19,7 @@ http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian", Friday
 http://46.32.64.42/s/live/14/134.249.65.172/1/0.m3u8
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="https://i.pinimg.com/originals/35/88/37/358837ae59559512abddbbf192a4f625.png" group-title="Russian",Disney Channel
-http://92.43.140.249/s60/04.m3u8
+http://stream2.kuvalda.tv/hls/disney.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
 http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:0 tvg-name="Setanta Sports+" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports+" tvg-logo="https://i.pinimg.com/originals/c2/94/48/c29448e273e866993f23348785bd668f.png" group-title="Russian",Setanta Sports+
