@@ -24,8 +24,6 @@ http://92.43.140.249/s60/04.m3u8
 http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:0 tvg-name="Setanta Sports+" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports+" tvg-logo="https://i.pinimg.com/originals/c2/94/48/c29448e273e866993f23348785bd668f.png" group-title="Russian",Setanta Sports+
 https://185-8-178-140.livesports24.online/setantaplusru.m3u8
-#EXTINF:0 tvg-name="Fishing & Hunting" tvg-language="Russian" tvg-country="Russia" tvg-id="Fishing & Hunting" tvg-logo="https://i.pinimg.com/originals/3f/02/14/3f0214b361515bb9ecc5baf20035eddf.png" group-title="Russian",Fishing & Hunting
-http://stream.euroasia.lfstrm.tv/ohota/1/index.m3u8
 #EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/9a/60/a8/9a60a8fbeff5576b4f994df7a38e1f72.png" group-title="Russian",Hunter & Fisherman
 https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0 tvg-name="Food Network" tvg-language="Russian" tvg-country="Russia" tvg-id="Food Network" tvg-logo="https://i.pinimg.com/originals/55/d4/c3/55d4c3622116377cab47b740ba94bc68.png" group-title="Russian", Food Network
