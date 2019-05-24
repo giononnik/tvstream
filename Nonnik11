@@ -48,3 +48,5 @@ http://203.154.243.32:8088/live/nba/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:0 tvg-name="Outdoor Channel" tvg-language="English" tvg-country="USA" tvg-id="Outdoor Channel" tvg-logo="https://i.pinimg.com/originals/7e/ee/ba/7eeeba020a29cfabd5c98e0d11beba60.png" group-title="US", Outdoor Channel
 http://190.13.120.115/streams/outdoor.m3u8
+#EXTINF:0 tvg-name="MTV Live HD" tvg-language="Russian" tvg-country="Russia" tvg-id="MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Russian",MTV Live HD
+http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/221/index.m3u8
