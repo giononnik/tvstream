@@ -24,6 +24,8 @@ http://video-4-205.rutube.ru/stream/10113616/9f87a9a0cecbe773be6fddcbd93585ac/tr
 http://stream2.kuvalda.tv/hls/disney.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
 http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:0 tvg-name="Setanta Sports" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports" tvg-logo="https://i.pinimg.com/originals/83/7f/f3/837ff3ab57d8348c02aabfec624713b2.png" group-title="Russian",Setanta Sports
+http://92.46.127.146:8080/SetantaSport/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Setanta Sports+" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports+" tvg-logo="https://i.pinimg.com/originals/c2/94/48/c29448e273e866993f23348785bd668f.png" group-title="Russian",Setanta Sports+
 https://185-8-178-140.livesports24.online/setantaplusru.m3u8
 #EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/9a/60/a8/9a60a8fbeff5576b4f994df7a38e1f72.png" group-title="Russian",Hunter & Fisherman
