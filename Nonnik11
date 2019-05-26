@@ -18,7 +18,7 @@ http://video-4-306.rutube.ru/stream/10113616/5c7a9178adf67b6976216334abb42f4f/tr
 http://161.0.157.6/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:0 tvg-name="HBO2" tvg-language="English" tvg-country="USA" tvg-id="HBO2" tvg-logo="https://i.pinimg.com/originals/66/c2/13/66c21384d5db73cbe5f05f8e3211ba8b.png" group-title="US", HBO2
 http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian", Friday
+#EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 http://video-4-205.rutube.ru/stream/10113616/9f87a9a0cecbe773be6fddcbd93585ac/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="https://i.pinimg.com/originals/35/88/37/358837ae59559512abddbbf192a4f625.png" group-title="Russian",Disney Channel
 http://stream2.kuvalda.tv/hls/disney.m3u8
