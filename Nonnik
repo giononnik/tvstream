@@ -48,5 +48,5 @@ https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:0 tvg-name="Cooking Channel" tvg-language="English" tvg-country="USA" tvg-id="Cooking Channel" tvg-logo="https://i.pinimg.com/originals/12/dc/82/12dc82726750ff82e6cf089c281ce35c.png" group-title="US",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:0 tvg-name="MTV Live HD" tvg-language="Russian" tvg-country="Russia" tvg-id="MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Russian",MTV Live HD
+#EXTINF:0 tvg-name="MTV Live HD" tvg-language="Russian" tvg-country="Russia" tvg-id="MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Russian", MTV Live HD
 http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/221/index.m3u8
