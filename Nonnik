@@ -46,11 +46,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
 #EXTINF:0 tvg-name="ESPN2" tvg-language="English" tvg-country="USA" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="US", ESPN2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:0 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="US",NBA TV
-http://203.154.243.32:8088/live/nba/index.m3u8
 #EXTINF:0 tvg-name="Cooking Channel" tvg-language="English" tvg-country="USA" tvg-id="Cooking Channel" tvg-logo="https://i.pinimg.com/originals/12/dc/82/12dc82726750ff82e6cf089c281ce35c.png" group-title="US",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:0 tvg-name="Outdoor Channel" tvg-language="English" tvg-country="USA" tvg-id="Outdoor Channel" tvg-logo="https://i.pinimg.com/originals/7e/ee/ba/7eeeba020a29cfabd5c98e0d11beba60.png" group-title="US", Outdoor Channel
-http://190.13.120.115/streams/outdoor.m3u8
 #EXTINF:0 tvg-name="MTV Live HD" tvg-language="Russian" tvg-country="Russia" tvg-id="MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Russian",MTV Live HD
 http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/221/index.m3u8
