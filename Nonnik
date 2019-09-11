@@ -9,7 +9,7 @@ https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 https://live-204.zxz.su/LIVE/LIVE:317849/HLS/1568128159/SItEX0NrdXW9ESb0ftyXJQ/live/317849_3/chunklist.m3u8
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
-https://live-202.zxz.su/LIVE/LIVE:317851/HLS/1568130159/lZ5ZgeTiJ23No64M_DqQGw/live/317851_3/chunklist.m3u8
+http://188.128.15.118:8080/play/a19
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 https://live-202.zxz.su/LIVE/LIVE:317805/HLS/1568130442/DyGKMsHbZcUv9mACE9HizQ/live/317805_3/chunklist.m3u8
 #EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="USA" tvg-id="HBO" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hbo/logos/3p-logo._CB523425146_.png" group-title="US",HBO
@@ -17,11 +17,11 @@ http://161.0.157.6/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:0 tvg-name="HBO2" tvg-language="English" tvg-country="USA" tvg-id="HBO2" tvg-logo="https://i.pinimg.com/originals/66/c2/13/66c21384d5db73cbe5f05f8e3211ba8b.png" group-title="US", HBO2
 http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
-https://live-204.zxz.su/LIVE/LIVE:317843/HLS/1568127799/JfAcukpxrLT10_7qLeIU3g/live/317843_3/chunklist.m3u8
+http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
-https://live-202.zxz.su/LIVE/LIVE:317845/HLS/1568130653/bhBQpzVT03eZgeNe2xXrZg/live/317845_3/chunklist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
-https://mobdrm.mediavitrina.ru/hls-live9/streams/ctc/ctc3.m3u8?cdn=https://edge02d.mediavitrina.ru&netprav=/hls-vod1/streams/netprav/ctc_ctc_16x9_v1/index.m3u8&e=1568127528&s=eLQEM5L0DvzNzPg8riA0L0kUPtCB%2BkG6MqdznrOrU%2BIkhktrHu%2B5HQdTIEnoW7UvMNeGkQURqY3E87WeFq5zGHBC0qwfe6MRCMQFqDb0bd5b5TAkK8VaQeLXPxAo9rXaYvK8Cs5RdNIUMsbAxlR0UC%2Ft0eO2QsGvNTWOdJXCTbk%3D
+http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:0 tvg-name="Setanta Sports 1" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports 1" tvg-logo="https://i.pinimg.com/originals/98/11/e9/9811e96762fde9527510a47a3d134ad8.png" group-title="Russian",Setanta Sports 1
 http://92.46.127.146:8080/SetantaSport/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Setanta Sports 2" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports 2" tvg-logo="https://i.pinimg.com/originals/46/ef/77/46ef775b2be6a7defc8a4fbac8f0ac7c.png" group-title="Russian",Setanta Sports 2
