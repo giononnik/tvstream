@@ -11,7 +11,7 @@ https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 https://live-204.zxz.su/LIVE/LIVE:317849/HLS/1568128159/SItEX0NrdXW9ESb0ftyXJQ/live/317849_3/chunklist.m3u8
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+http://188.35.9.5:10020/stolen/441t/hot.dll
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 https://live-202.zxz.su/LIVE/LIVE:317805/HLS/1568130442/DyGKMsHbZcUv9mACE9HizQ/live/317805_3/chunklist.m3u8
 #EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="USA" tvg-id="HBO" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hbo/logos/3p-logo._CB523425146_.png" group-title="US",HBO
