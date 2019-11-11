@@ -8,6 +8,10 @@ http://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 #EXTINF:0 tvg-name="1 Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="1 Channel" tvg-logo="http://www.myvideo.ge/?CIA=1&ci_c=flsstreams&ci_d=services&ci_m=thumb&chan=gpb2hq" group-title="Georgian",1 Channel
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-name="Pirveli" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Pirveli" tvg-logo="https://i.pinimg.com/originals/53/34/80/533480201a8c2f0aaf81d021297c74c0.png" group-title="Georgian", Pirveli
+http://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
+#EXTINF:0 tvg-name="Adjarasport" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport" tvg-logo="https://i.pinimg.com/originals/a1/3d/b9/a13db9bc705fbf2fa39489dac7d0408a.png" group-title="Georgian", Adjarasport
+http://receiver.adjara.com/adjarasport_live/LiveTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://46.32.68.167/s/live/816/86.169.51.136/0/0.m3u8
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
