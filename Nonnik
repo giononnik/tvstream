@@ -15,7 +15,7 @@ http://receiver.adjara.com/adjarasport_live/LiveTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://46.32.68.167/s/live/816/86.169.51.136/0/0.m3u8
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
-http://195.154.214.162:25461/mauritania/mauritania/55518
+http://178.162.205.76/video/698_ceNVvjq-4JnS4NtYEw/11/playlist.m3u8
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8
 #EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="USA" tvg-id="HBO" tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hbo/logos/3p-logo._CB523425146_.png" group-title="US",HBO
