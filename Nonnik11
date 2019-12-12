@@ -30,7 +30,7 @@ http://92.46.127.146:8080/SetantaSport/tracks-v1a1/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/9a/60/a8/9a60a8fbeff5576b4f994df7a38e1f72.png" group-title="Russian",Hunter & Fisherman
 https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:0 tvg-name="Sony Sci-fi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sony Sci-fi " tvg-logo="https://i.pinimg.com/originals/59/ce/3a/59ce3ab470717dc380edbbc1724b9cc4.png" group-title="Russian", Sony Sci-fi
+#EXTINF:0 tvg-name="Sci-fi" tvg-language="Russian" tvg-country="Russia" tvg-id="Sci-fi " tvg-logo="https://i.pinimg.com/originals/59/ce/3a/59ce3ab470717dc380edbbc1724b9cc4.png" group-title="Russian", Sony Sci-fi
 http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
 #EXTINF:0 tvg-name="VH1" tvg-language="English" tvg-country="USA" tvg-id="VH1" tvg-logo="https://www.streamys.org/wp-content/uploads/2012/08/VH1_White.png" group-title="US",VH1
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
