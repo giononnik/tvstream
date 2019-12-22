@@ -10,6 +10,8 @@ http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Pirveli" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Pirveli" tvg-logo="https://i.pinimg.com/originals/53/34/80/533480201a8c2f0aaf81d021297c74c0.png" group-title="Georgian", Pirveli
 http://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
+#EXTINF:0 tvg-name="Maestro" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Maestro" tvg-logo="https://i.pinimg.com/originals/77/5b/35/775b351647b67fd0addf806e5f62fd5c.png" group-title="Georgian",Maestro
+http://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
 #EXTINF:0 tvg-name="Adjarasport" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport" tvg-logo="https://i.pinimg.com/originals/a1/3d/b9/a13db9bc705fbf2fa39489dac7d0408a.png" group-title="Georgian",Adjarasport
 http://receiver.adjara.com/adjarasport_live/LiveTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
