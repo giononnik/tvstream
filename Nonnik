@@ -24,6 +24,8 @@ http://178.124.183.14/hls/EU9VTLDQCN/variant.m3u8
 http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8
+#EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="http://www.llumac.cat/iconpics/f/37/375149/disney-channel-logo-png.png" group-title="Russian",Disney Channel
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
 https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:0 tvg-name="Setanta Sports 1" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports 1" tvg-logo="https://i.pinimg.com/originals/98/11/e9/9811e96762fde9527510a47a3d134ad8.png" group-title="Russian",Setanta Sports 1
@@ -38,3 +40,5 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 tvg-name="National Geographic" tvg-language="English" tvg-country="USA" tvg-id="National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-logo-natgeo-png-pluspng-com-logo-national-geographic-png-1000.png" group-title="US",National Geographic
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
