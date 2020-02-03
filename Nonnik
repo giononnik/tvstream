@@ -44,3 +44,5 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-name="National Geographic" tvg-language="English" tvg-country="USA" tvg-id="National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-logo-natgeo-png-pluspng-com-logo-national-geographic-png-1000.png" group-title="US",National Geographic
 http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:0 tvg-name="Tennis Channel" tvg-language="Russian" tvg-country="USA" tvg-id="Tennis Channel" tvg-logo="https://i.pinimg.com/originals/12/63/c3/1263c32ccc5189a79508e5d84b9262a5.png" group-title="US",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
