@@ -2,7 +2,7 @@
 #EXTINF:-1,Georgian Channel
 http://46.49.25.122:9001/udp/224.100.1.78:1078
 #EXTINF:-1,Зоо Парк
-http://46.49.25.122:9001/udp/224.100.1.125:1125
+http://streamstat.net/videoplayer.cgi?sid=6099560&ext=.m3u8
 #EXTINF:-1,Georgia
 http://46.49.25.122:9001/udp/224.100.1.183:1183
 #EXTINF:-1,Viasat Nature
