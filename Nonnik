@@ -21,7 +21,7 @@ http://ott-cdn.ucom.am/s100/04.m3u8
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
 https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
-http://mfe18.svc.ott.zala.by/hls/EU9VTLDQCN_HLS/variant.m3u8
+https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565199976/1e35f601a1ecd232861199731ef58c2d/playlist.m3u8
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
