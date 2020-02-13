@@ -31,9 +31,9 @@ http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
 https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:0 tvg-name="Setanta Sports 1" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports 1" tvg-logo="https://i.pinimg.com/originals/98/11/e9/9811e96762fde9527510a47a3d134ad8.png" group-title="Russian",Setanta Sports 1
-https://95-213-224-184.livesports24.online/rusetantaeurasia.m3u8
+http://92.43.140.249/s81/04.m3u8
 #EXTINF:0 tvg-name="Setanta Sports 2" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports 2" tvg-logo="https://i.pinimg.com/originals/46/ef/77/46ef775b2be6a7defc8a4fbac8f0ac7c.png" group-title="Russian",Setanta Sports 2
-http://178.124.183.13/hls/5T3FNFICQ4/variant.m3u8
+http://92.43.140.249/s82/04.m3u8
 #EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/c6/74/1f/c6741f45a31fe2146ee0596910dcd779.png" group-title="Russian",Hunter & Fisherman
 https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0 tvg-name="VH1" tvg-language="English" tvg-country="USA" tvg-id="VH1" tvg-logo="https://www.streamys.org/wp-content/uploads/2012/08/VH1_White.png" group-title="US",VH1
