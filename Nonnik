@@ -50,3 +50,5 @@ http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="USA" tvg-id="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="US",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="Food Network" tvg-language="Russian" tvg-country="USA" tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="US",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
