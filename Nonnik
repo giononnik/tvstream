@@ -56,3 +56,5 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8
 #EXTINF:0 tvg-name="ESPN2" tvg-language="English" tvg-country="USA" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="US",ESPN2
 https://gma2.blab.email/espn2.m3u8
+#EXTINF:0 tvg-name="Pop" tvg-language="English" tvg-country="USA" tvg-id="Pop" tvg-logo="https://i.pinimg.com/originals/77/79/77/7779775b75deef80e5877b7b18f72f6f.png" group-title="US",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
