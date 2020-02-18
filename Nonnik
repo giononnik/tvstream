@@ -53,6 +53,6 @@ http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="Food Network" tvg-language="Russian" tvg-country="USA" tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="US",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="USA" tvg-id="ESPN" tvg-logo="https://www.nlgja.org/2019/wp-content/uploads/sites/14/2019/07/ESPN-logo-2015-1.png" group-title="US",ESPN
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:0 tvg-name="ESPN2" tvg-language="English" tvg-country="USA" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="US",ESPN2
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8
+#EXTINF:0 tvg-name="ESPN2" tvg-language="English" tvg-country="USA" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="US",ESPN2
+https://gma2.blab.email/espn2.m3u8
