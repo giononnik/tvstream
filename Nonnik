@@ -21,13 +21,13 @@ http://188.169.194.17:8000/play/silkuniversal/index.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/104/index.m3u
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/717/index.m3u
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
-https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1582127616/28ab872de5586541df82e9872650d477/playlist.m3u8
+http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/702/index.m3u
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
-https://streamer-1.obozrenie.tv/18/7c0f45037f9f1f32fff557be/16/stream.m3u8
+http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/503/index.m3u
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
-https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1582127935/55008a3ce03f6eb5269915f9f828fe2e/playlist.m3u8
+http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/826/index.m3u
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="http://www.llumac.cat/iconpics/f/37/375149/disney-channel-logo-png.png" group-title="Russian",Disney Channel
 http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
