@@ -62,5 +62,3 @@ https://gma2.blab.email/espn2.m3u8
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:0 tvg-name="TBS" tvg-language="English" tvg-country="USA" tvg-id="TBS" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/03/tbs.png" group-title="US",TBS
 http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/1103/index.m3u
-#EXTINF:0 tvg-name="truTV" tvg-language="English" tvg-country="USA" tvg-id="truTV" tvg-logo="https://i.pinimg.com/originals/a9/dd/79/a9dd79e1c932cebe98e068872295d661.png" group-title="US",truTV
-http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/1085/index.m3u
