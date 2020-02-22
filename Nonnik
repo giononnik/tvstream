@@ -23,7 +23,7 @@ http://188.169.194.17:8000/play/silkuniversal/index.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/104/index.m3u
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
-http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/717/index.m3u
+http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/237/index.m3u
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/702/index.m3u
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
@@ -33,7 +33,7 @@ http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/826/index.m3u
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="http://www.llumac.cat/iconpics/f/37/375149/disney-channel-logo-png.png" group-title="Russian",Disney Channel
 http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
-https://sc.id-tv.kz/STS_38_39.m3u8
+http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/506/index.m3u
 #EXTINF:0 tvg-name="Setanta Sports 1" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports 1" tvg-logo="https://i.pinimg.com/originals/98/11/e9/9811e96762fde9527510a47a3d134ad8.png" group-title="Russian",Setanta Sports 1
 http://92.43.140.249/s81/04.m3u8
 #EXTINF:0 tvg-name="Setanta Sports 2" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports 2" tvg-logo="https://i.pinimg.com/originals/46/ef/77/46ef775b2be6a7defc8a4fbac8f0ac7c.png" group-title="Russian",Setanta Sports 2
