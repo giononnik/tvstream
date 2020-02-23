@@ -25,15 +25,15 @@ https://rt-cache1.peers.tv/streaming/tnt4/16/variable.m3u8
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
 https://rt-cache1.peers.tv/streaming/tnt/16/variable.m3u8
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
-http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/702/index.m3u
+https://rt-cache1.peers.tv/streaming/2x2tv/16/variable.m3u8
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 https://rt-cache1.peers.tv/streaming/friday/16/variable.m3u8
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SUPER/variant.m3u8
+https://rt-cache1.peers.tv/streaming/super/16/copy/playlist.m3u8
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="Russian" tvg-country="Russia" tvg-id="Disney Channel" tvg-logo="http://www.llumac.cat/iconpics/f/37/375149/disney-channel-logo-png.png" group-title="Russian",Disney Channel
 http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
-http://8ugtvcif.ottclub.xyz/iptv/QGLAF3444T4MN5/506/index.m3u
+https://rt-cache1.peers.tv/streaming/sts/126/variable.m3u8
 #EXTINF:0 tvg-name="Setanta Sports 1" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports 1" tvg-logo="https://i.pinimg.com/originals/98/11/e9/9811e96762fde9527510a47a3d134ad8.png" group-title="Russian",Setanta Sports 1
 http://92.43.140.249/s81/04.m3u8
 #EXTINF:0 tvg-name="Setanta Sports 2" tvg-language="Russian" tvg-country="Russia" tvg-id="Setanta Sports 2" tvg-logo="https://i.pinimg.com/originals/46/ef/77/46ef775b2be6a7defc8a4fbac8f0ac7c.png" group-title="Russian",Setanta Sports 2
