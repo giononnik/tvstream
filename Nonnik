@@ -58,3 +58,5 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil%3aespn.smil/index.m3u8
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:0 tvg-name="Pop" tvg-language="English" tvg-country="USA" tvg-id="Pop" tvg-logo="https://i.pinimg.com/originals/77/79/77/7779775b75deef80e5877b7b18f72f6f.png" group-title="US",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:0 tvg-name="FX" tvg-language="English" tvg-country="USA" tvg-id="FX" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="US",FX
+https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
