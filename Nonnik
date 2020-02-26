@@ -19,7 +19,7 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:0 tvg-name="Adjarasport 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 2" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir5/file5664.png" group-title="Georgian",Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:0 tvg-name="Silk Universal" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Silk Universal" tvg-logo="https://i.pinimg.com/originals/a6/4f/80/a64f807f5a13563ac41da18beb569292.png" group-title="Georgian",Silk Universal
-https://bozztv.com/36bay2/gin/giniko_silk_universalt_800kb_36bay2/tracks-v1a1/index.m3u8
+http://188.169.194.17:8000/play/silkuniversal/index.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 https://rt-cache1.peers.tv/streaming/tnt4/16/variable.m3u8
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
