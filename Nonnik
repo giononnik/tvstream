@@ -60,3 +60,5 @@ https://gma2.blab.email/espn2.m3u8
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:0 tvg-name="FX" tvg-language="English" tvg-country="USA" tvg-id="FX" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="US",FX
 https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:0 tvg-name="Comedy Central" tvg-language="English" tvg-country="USA" tvg-id="Comedy Central" tvg-logo="https://www.sindicatoalma.es/wp-content/uploads/2019/02/comedi-central.png" group-title="US",Comedy Central
+https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
