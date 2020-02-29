@@ -23,15 +23,15 @@ http://188.169.194.17:8000/play/silkuniversal/index.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 https://rt-cache1.peers.tv/streaming/tnt4/16/variable.m3u8
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/68/Логотип_телеканала_«ТНТ»_с_18_апреля_2018_года.png" group-title="Russian",TNT
-https://rt-cache1.peers.tv/streaming/tnt/16/variable.m3u8
+https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 https://rt-cache1.peers.tv/streaming/2x2tv/16/variable.m3u8
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
-https://rt-cache1.peers.tv/streaming/friday/16/variable.m3u8
+https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
-https://rt-cache1.peers.tv/streaming/super/16/copy/playlist.m3u8
+https://plbl.m9.lfstrm.tv/super_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
-https://rt-cache1.peers.tv/streaming/sts/126/variable.m3u8
+https://plbl.m9.lfstrm.tv/sts_hd/normal/3/index.m3u8?account=0&origin=m9-live4&provider_id=0
 #EXTINF:0 tvg-name="UFC TV" tvg-language="Russian" tvg-country="Russia" tvg-id="UFC TV" tvg-logo="https://i.pinimg.com/originals/29/46/8c/29468ce2e35519ac763308f7fc6bacb2.png" group-title="Russian",UFC TV
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 #EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/c6/74/1f/c6741f45a31fe2146ee0596910dcd779.png" group-title="Russian",Hunter & Fisherman
