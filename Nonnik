@@ -22,7 +22,7 @@ https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 http://188.169.194.17:8000/play/silkuniversal/index.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 https://plbl.m9.lfstrm.tv/comedytv/normal/1/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
-#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://cdn.tnt-online.ru/mobile/img/tnt-logo.png?v=1" group-title="Russian",TNT
+#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://cdn.tnt-online.ru/mobile/img/tnt-logo.png" group-title="Russian",TNT
 https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 https://plbl.m9.lfstrm.tv/2x2/normal/1/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
