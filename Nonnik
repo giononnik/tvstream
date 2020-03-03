@@ -42,14 +42,10 @@ https://plbl.m9.lfstrm.tv/amedia_premium_hd/normal/3/index.m3u8?account=0&origin
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 #EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/c6/74/1f/c6741f45a31fe2146ee0596910dcd779.png" group-title="Russian",Hunter & Fisherman
 https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:0 tvg-name="FX" tvg-language="English" tvg-country="USA" tvg-id="FX" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fx-logo-png-1.png" group-title="US",FX
-https://www.doofree88.com/streaming/hd-fxeng_480/index.m3u8
 #EXTINF:0 tvg-name="Food Network" tvg-language="English" tvg-country="USA" tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="US",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:0 tvg-name="Pop" tvg-language="English" tvg-country="USA" tvg-id="Pop" tvg-logo="https://i.pinimg.com/originals/77/79/77/7779775b75deef80e5877b7b18f72f6f.png" group-title="US",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:0 tvg-name="Comedy Central" tvg-language="English" tvg-country="USA" tvg-id="Comedy Central" tvg-logo="https://www.sindicatoalma.es/wp-content/uploads/2019/02/comedi-central.png" group-title="US",Comedy Central
-https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
 #EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="USA" tvg-id="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="US",AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="VH1" tvg-language="English" tvg-country="USA" tvg-id="VH1" tvg-logo="https://ortus-global.com/files/253/vh1-european-big.png" group-title="US",VH1
