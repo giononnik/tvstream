@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:0 tvg-name="Main Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Main Channel" tvg-logo="http://mtavari.tv/assets/logo.png" group-title="Georgian",Main Channel
+http://hls.t.stream-dns.net/hls/mtavari_1/index.m3u8
+#EXTINF:0 tvg-name="Formula TV" tvg-language="Georgian" tvg-country="Russia" tvg-id="Formula TV" tvg-logo="https://i.pinimg.com/originals/7d/05/15/7d0515f184bd5ec1c45fdd13f58db242.png" group-title="Georgian",Formula TV
+http://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:0 tvg-name="Adjarasport 1" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 1" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir2/file2264.png" group-title="Georgian",Adjarasport 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+#EXTINF:0 tvg-name="Adjarasport 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 2" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir5/file5664.png" group-title="Georgian",Adjarasport 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
+#EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
+https://plbl.m9.lfstrm.tv/comedytv/normal/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
+#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://cdn.tnt-online.ru/mobile/img/tnt-logo.png" group-title="Russian",TNT
+https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+#EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
+https://plbl.m9.lfstrm.tv/2x2/normal/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+#EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
+https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+#EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
+https://plbl.m9.lfstrm.tv/super_hd_ott/normal/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+#EXTINF:0 tvg-name="Food Network" tvg-language="English" tvg-country="USA" tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="US",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:0 tvg-name="Pop" tvg-language="English" tvg-country="USA" tvg-id="Pop" tvg-logo="https://i.pinimg.com/originals/77/79/77/7779775b75deef80e5877b7b18f72f6f.png" group-title="US",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
