@@ -53,7 +53,7 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="USA" tvg-id="ESPN" tvg-logo="https://www.nlgja.org/2019/wp-content/uploads/sites/14/2019/07/ESPN-logo-2015-1.png" group-title="US", ESPN
 http://nfl.yrsprts.xyz/hls/x.m3u8?ch=xespn&x=1
 #EXTINF:0 tvg-name="ESPN2" tvg-language="English" tvg-country="USA" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="US",ESPN2
-https://gma2.blab.email/espn2.m3u8
+http://nfl.yrsprts.xyz/hls/x.m3u8?ch=espn2&x=1
 #EXTINF:0 tvg-name="CBS" tvg-language="English" tvg-country="USA" tvg-id="CBS" tvg-logo="https://i.pinimg.com/originals/76/bf/0e/76bf0e1080c15309b0b040da7bb75dd4.png" group-title="US",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:0 tvg-name="Disney Channel" tvg-language="English" tvg-country="USA" tvg-id="Disney Channel" tvg-logo="http://www.llumac.cat/iconpics/f/37/375149/disney-channel-logo-png.png" group-title="US",Disney Channel
