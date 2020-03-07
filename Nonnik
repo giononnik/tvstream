@@ -5,7 +5,7 @@ http://hls.t.stream-dns.net/hls/mtavari_1/index.m3u8
 #EXTINF:0 tvg-name="Formula TV" tvg-language="Georgian" tvg-country="Russia" tvg-id="Formula TV" tvg-logo="https://i.pinimg.com/originals/7d/05/15/7d0515f184bd5ec1c45fdd13f58db242.png" group-title="Georgian",Formula TV
 http://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:0 tvg-name="Imedi" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Imedi" tvg-logo="https://i.pinimg.com/originals/be/27/13/be2713fc7cbfef54316fe883a0e26411.png" group-title="Georgian", Imedi
-https://imedi-tv.cdn.xsg.ge/imedihd/index.m3u8
+http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 #EXTINF:0 tvg-name="Rustavi 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" group-title="Georgian", Rustavi 2
 http://r2.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
 #EXTINF:0 tvg-name="1 Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="1 Channel" tvg-logo="http://www.myvideo.ge/?CIA=1&ci_c=flsstreams&ci_d=services&ci_m=thumb&chan=gpb2hq" group-title="Georgian",1 Channel
