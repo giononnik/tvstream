@@ -64,5 +64,5 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-name="Tennis Channel" tvg-language="English" tvg-country="USA" tvg-id="Tennis Channel" tvg-logo="https://i.pinimg.com/originals/12/63/c3/1263c32ccc5189a79508e5d84b9262a5.png" group-title="US",Tennis Channel
+#EXTINF:0 tvg-name="Tennis Channel" tvg-language="English" tvg-country="USA" tvg-id="Tennis Channel" tvg-logo="https://i.pinimg.com/originals/12/63/c3/1263c32ccc5189a79508e5d84b9262a5.png" group-title="US", Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
