@@ -1,399 +1,68 @@
 #EXTM3U
-#EXTINF:-1,Georgian Channel
-http://46.49.25.122:9001/udp/224.100.1.78:1078
-#EXTINF:-1,Зоо Парк
-http://streamstat.net/videoplayer.cgi?sid=6099560&ext=.m3u8
-#EXTINF:-1,Georgia
-http://46.49.25.122:9001/udp/224.100.1.183:1183
-#EXTINF:-1,Viasat Nature
-http://46.49.25.122:9001/udp/224.100.1.107:1107
-#EXTINF:-1,Discover Georgia
-http://46.49.25.122:9001/udp/224.100.1.127:1127
-#EXTINF:-1,Animal Planet HD
-http://46.49.25.122:9001/udp/224.100.1.79:1079
-#EXTINF:-1,Охотник и Рыболов
-http://46.49.25.122:9001/udp/224.100.1.126:1126
-#EXTINF:-1,Интер+
-http://46.49.25.122:9001/udp/224.100.1.184:1184
-#EXTINF:-1,Viasat Explorer
-http://46.49.25.122:9001/udp/224.100.1.108:1108
-#EXTINF:-1,Детский
-http://46.49.25.122:9001/udp/224.100.1.129:1129
-#EXTINF:-1,8 Канал
-http://46.49.25.122:9001/udp/224.100.1.64:1064
-#EXTINF:-1,Boomerang
-http://46.49.25.122:9001/udp/224.100.1.63:1063
-#EXTINF:-1,Nickelodeon
-http://46.49.25.122:9001/udp/224.100.1.65:1065
-#EXTINF:-1,Vinye
-http://46.49.25.122:9001/udp/224.100.1.52:1052
-#EXTINF:-1,Unknown
-http://46.49.25.122:9001/udp/224.100.1.50:1050
-#EXTINF:-1,Georgia
-http://46.49.25.122:9001/udp/224.100.1.53:1053
-#EXTINF:-1,Georgia Music
-http://46.49.25.122:9001/udp/224.100.1.56:1056
-#EXTINF:-1,Movie HD
-http://46.49.25.122:9001/udp/224.100.1.54:1054
-#EXTINF:-1,V A TV https://iptv.live
-http://46.49.25.122:9001/udp/224.100.1.57:1057
-#EXTINF:-1,ИнфоКанал HD
-http://46.49.25.122:9001/udp/224.100.1.59:1059
-#EXTINF:-1,Art RE HD
-http://46.49.25.122:9001/udp/224.100.1.58:1058
-#EXTINF:-1,My Sport
-http://46.49.25.122:9001/udp/224.100.1.60:1060
-#EXTINF:-1,Vinye Music
-http://46.49.25.122:9001/udp/224.100.1.62:1062
-#EXTINF:-1,Georgian News
-http://46.49.25.122:9001/udp/224.100.1.67:1067
-#EXTINF:-1,Georgian
-http://46.49.25.122:9001/udp/224.100.1.66:1066
-#EXTINF:-1,M1 Global
-http://46.49.25.122:9001/udp/224.100.1.26:1026
-#EXTINF:-1,Cinema
-http://46.49.25.122:9001/udp/224.100.1.27:1027
-#EXTINF:-1,TLC HD
-http://46.49.25.122:9001/udp/224.100.1.31:1031
-#EXTINF:-1,Sony
-http://46.49.25.122:9001/udp/224.100.1.32:1032
-#EXTINF:-1,Film Box
-http://46.49.25.122:9001/udp/224.100.1.40:1040
-#EXTINF:-1,EuroSport 1 HD
-http://46.49.25.122:9001/udp/224.100.1.41:1041
-#EXTINF:-1,4 Channel Georgia
-http://46.49.25.122:9001/udp/224.100.1.33:1033
-#EXTINF:-1,T Georgia
-http://46.49.25.122:9001/udp/224.100.1.34:1034
-#EXTINF:-1,7 TV
-http://46.49.25.122:9001/udp/224.100.1.35:1035
-#EXTINF:-1,Music Channel
-http://46.49.25.122:9001/udp/224.100.1.36:1036
-#EXTINF:-1,N/A
-http://46.49.25.122:9001/udp/224.100.1.37:1037
-#EXTINF:-1,N/A
-http://46.49.25.122:9001/udp/224.100.1.43:1043
-#EXTINF:-1,Lite TV
-http://46.49.25.122:9001/udp/224.100.1.46:1046
-#EXTINF:-1,Kazakh TV
-http://46.49.25.122:9001/udp/224.100.1.48:1048
-#EXTINF:-1,O Gec
-http://46.49.25.122:9001/udp/224.100.1.49:1049
-#EXTINF:-1,N/A
-http://46.49.25.122:9001/udp/224.100.1.55:1055
-#EXTINF:-1,Живая жизнь
-http://46.49.25.122:9001/udp/224.100.1.70:1070
-#EXTINF:-1,CBC
-http://46.49.25.122:9001/udp/224.100.1.71:1071
-#EXTINF:-1,RTR PLANETA
-http://46.49.25.122:9001/udp/224.100.1.72:1072
-#EXTINF:-1,MIR HD
-http://46.49.25.122:9001/udp/224.100.1.73:1073
-#EXTINF:-1,FRANCE24 HD
-http://46.49.25.122:9001/udp/224.100.1.74:1074
-#EXTINF:-1,DISCOVERY HD
-http://46.49.25.122:9001/udp/224.100.1.75:1075
-#EXTINF:-1,N/A
-http://46.49.25.122:9001/udp/224.100.1.76:1076
-#EXTINF:-1,N/A
-http://46.49.25.122:9001/udp/224.100.1.77:1077
-#EXTINF:-1,Bollywood HD
-http://46.49.25.122:9001/udp/224.100.1.80:1080
-#EXTINF:-1,Моя планета
-http://46.49.25.122:9001/udp/224.100.1.81:1081
-#EXTINF:-1,Наука
-http://46.49.25.122:9001/udp/224.100.1.82:1082
-#EXTINF:-1,История
-http://46.49.25.122:9001/udp/224.100.1.83:1083
-#EXTINF:-1,Мульт
-http://46.49.25.122:9001/udp/224.100.1.84:1084
-#EXTINF:-1,Сарафан https://iptv.live
-http://46.49.25.122:9001/udp/224.100.1.85:1085
-#EXTINF:-1,N/A
-http://46.49.25.122:9001/udp/224.100.1.86:1086
-#EXTINF:-1,НСТ
-http://46.49.25.122:9001/udp/224.100.1.87:1087
-#EXTINF:-1,National Geographic
-http://46.49.25.122:9001/udp/224.100.1.88:1088
-#EXTINF:-1,Живая планета
-http://46.49.25.122:9001/udp/224.100.1.89:1089
-#EXTINF:-1,RTVI
-http://46.49.25.122:9001/udp/224.100.1.90:1090
-#EXTINF:-1,Планета HD
-http://46.49.25.122:9001/udp/224.100.1.91:1091
-#EXTINF:-1,Мама
-http://46.49.25.122:9001/udp/224.100.1.92:1092
-#EXTINF:-1,Дом Кино Премиум HD
-http://46.49.25.122:9001/udp/224.100.1.93:1093
-#EXTINF:-1,Мир сериала
-http://46.49.25.122:9001/udp/224.100.1.94:1094
-#EXTINF:-1,Радость моя
-http://46.49.25.122:9001/udp/224.100.1.95:1095
-#EXTINF:-1,Шансон
-http://46.49.25.122:9001/udp/224.100.1.96:1096
-#EXTINF:-1,БОБЕР
-http://46.49.25.122:9001/udp/224.100.1.97:1097
-#EXTINF:-1,Russian musicbox
-http://46.49.25.122:9001/udp/224.100.1.98:1098
-#EXTINF:-1,Поехали
-http://46.49.25.122:9001/udp/224.100.1.99:1099
-#EXTINF:-1,Setanta Sports HD
-http://46.49.25.122:9001/udp/224.100.1.25:1025
-#EXTINF:-1,24Техно
-http://46.49.25.122:9001/udp/224.100.1.28:1028
-#EXTINF:-1,Доктор
-http://46.49.25.122:9001/udp/224.100.1.29:1029
-#EXTINF:-1,Redlight HD
-http://46.49.25.122:9001/udp/224.100.1.30:1030
-#EXTINF:-1,2FM
-http://46.49.25.122:9001/udp/224.100.1.44:1044
-#EXTINF:-1,Music BOX
-http://46.49.25.122:9001/udp/224.100.1.45:1045
-#EXTINF:-1,NHK World HD
-http://46.49.25.122:9001/udp/224.100.1.47:1047
-#EXTINF:-1,TiJi
-http://46.49.25.122:9001/udp/224.100.1.68:1068
-#EXTINF:-1,MTV
-http://46.49.25.122:9001/udp/224.100.1.69:1069
-#EXTINF:-1,Fast Fun BOX HD
-http://46.49.25.122:9001/udp/224.100.1.100:1100
-#EXTINF:-1,TV1000
-http://46.49.25.122:9001/udp/224.100.1.101:1101
-#EXTINF:-1,TV1000 Action
-http://46.49.25.122:9001/udp/224.100.1.102:1102
-#EXTINF:-1,TV1000 Русское кино
-http://46.49.25.122:9001/udp/224.100.1.103:1103
-#EXTINF:-1,Da_Vinci
-http://46.49.25.122:9001/udp/224.100.1.104:1104
-#EXTINF:-1,Viasat Sport
-http://46.49.25.122:9001/udp/224.100.1.105:1105
-#EXTINF:-1,Viasat_History
-http://46.49.25.122:9001/udp/224.100.1.106:1106
-#EXTINF:-1,Настоящее время HD
-http://46.49.25.122:9001/udp/224.100.1.109:1109
-#EXTINF:-1,Setanta Sports HD
-http://46.49.25.122:9001/udp/224.100.1.110:1110
-#EXTINF:-1,Setanta Sports HD
-http://46.49.25.122:9001/udp/224.100.1.111:1111
-#EXTINF:-1,Армения тв
-http://46.49.25.122:9001/udp/224.100.1.112:1112
-#EXTINF:-1,Драйв
-http://46.49.25.122:9001/udp/224.100.1.113:1113
-#EXTINF:-1,Авто 24
-http://46.49.25.122:9001/udp/224.100.1.114:1114
-#EXTINF:-1,Georgian Channel
-http://46.49.25.122:9001/udp/224.100.1.115:1115
-#EXTINF:-1,Fuel TV HD
-http://46.49.25.122:9001/udp/224.100.1.116:1116
-#EXTINF:-1,Русский иллюзион
-http://46.49.25.122:9001/udp/224.100.1.117:1117
-#EXTINF:-1,Иллюзион
-http://46.49.25.122:9001/udp/224.100.1.118:1118
-#EXTINF:-1,Еврокино
-http://46.49.25.122:9001/udp/224.100.1.119:1119
-#EXTINF:-1,Детский мир
-http://46.49.25.122:9001/udp/224.100.1.120:1120
-#EXTINF:-1,Наше любимое кино
-http://46.49.25.122:9001/udp/224.100.1.121:1121
-#EXTINF:-1,Психология 21
-http://46.49.25.122:9001/udp/224.100.1.122:1122
-#EXTINF:-1,Вопросы и ответы
-http://46.49.25.122:9001/udp/224.100.1.123:1123
-#EXTINF:-1,Домшние животные
-http://46.49.25.122:9001/udp/224.100.1.124:1124
-#EXTINF:-1,О!
-http://46.49.25.122:9001/udp/224.100.1.128:1128
-#EXTINF:-1,Мир
-http://46.49.25.122:9001/udp/224.100.1.131:1131
-#EXTINF:-1,Мир24
-http://46.49.25.122:9001/udp/224.100.1.132:1132
-#EXTINF:-1,UA
-http://46.49.25.122:9001/udp/224.100.1.133:1133
-#EXTINF:-1,BBC World News
-http://46.49.25.122:9001/udp/224.100.1.134:1134
-#EXTINF:-1,Paid program
-http://46.49.25.122:9001/udp/224.100.1.135:1135
-#EXTINF:-1,VOSTOK TV
-http://46.49.25.122:9001/udp/224.100.1.137:1137
-#EXTINF:-1,IMEDY FM
-http://46.49.25.122:9001/udp/224.100.1.138:1138
-#EXTINF:-1,Iconcert HD
-http://46.49.25.122:9001/udp/224.100.1.139:1139
-#EXTINF:-1,Пятница international
-http://46.49.25.122:9001/udp/224.100.1.140:1140
-#EXTINF:-1,ТНТ4
-http://46.49.25.122:9001/udp/224.100.1.141:1141
-#EXTINF:-1,Охота и рыбалка
-http://46.49.25.122:9001/udp/224.100.1.142:1142
-#EXTINF:-1,Здоровое тв
-http://46.49.25.122:9001/udp/224.100.1.143:1143
-#EXTINF:-1,Усадьба
-http://46.49.25.122:9001/udp/224.100.1.144:1144
-#EXTINF:-1,English Club TV
-http://46.49.25.122:9001/udp/224.100.1.145:1145
-#EXTINF:-1,VIP TV HD
-http://46.49.25.122:9001/udp/224.100.1.146:1146
-#EXTINF:-1,Outdoor Channel
-http://46.49.25.122:9001/udp/224.100.1.147:1147
-#EXTINF:-1,Рен тв
-http://46.49.25.122:9001/udp/224.100.1.148:1148
-#EXTINF:-1,НТВ мир
-http://46.49.25.122:9001/udp/224.100.1.149:1149
-#EXTINF:-1,ТНТ Music
-http://46.49.25.122:9001/udp/224.100.1.150:1150
-#EXTINF:-1,Ретро
-http://46.49.25.122:9001/udp/224.100.1.151:1151
-#EXTINF:-1,Время
-http://46.49.25.122:9001/udp/224.100.1.152:1152
-#EXTINF:-1,Fashion One HD
-http://46.49.25.122:9001/udp/224.100.1.154:1154
-#EXTINF:-1,Brazzers tv
-http://46.49.25.122:9001/udp/224.100.1.155:1155
-#EXTINF:-1,Dorsel HD
-http://46.49.25.122:9001/udp/224.100.1.156:1156
-#EXTINF:-1,XXX STARS HD
-http://46.49.25.122:9001/udp/224.100.1.157:1157
-#EXTINF:-1,Georgian Sports Channel HD
-http://46.49.25.122:9001/udp/224.100.1.158:1158
-#EXTINF:-1,Fashion BOX TV
-http://46.49.25.122:9001/udp/224.100.1.160:1160
-#EXTINF:-1,360 Tune BOX
-http://46.49.25.122:9001/udp/224.100.1.161:1161
-#EXTINF:-1,Georgian Channel
-http://46.49.25.122:9001/udp/224.100.1.163:1163
-#EXTINF:-1,Georgian Channel
-http://46.49.25.122:9001/udp/224.100.1.164:1164
-#EXTINF:-1,XXY
-http://46.49.25.122:9001/udp/224.100.1.170:1170
-#EXTINF:-1,СТС
-http://46.49.25.122:9001/udp/224.100.1.171:1171
-#EXTINF:-1,Домашний
-http://46.49.25.122:9001/udp/224.100.1.172:1172
-#EXTINF:-1,Перец
-http://46.49.25.122:9001/udp/224.100.1.173:1173
-#EXTINF:-1,O2 Relax
-http://46.49.25.122:9001/udp/224.100.1.174:1174
-#EXTINF:-1,Georgian Channel
-http://46.49.25.122:9001/udp/224.100.1.175:1175
-#EXTINF:-1,Georgian Channel
-http://46.49.25.122:9001/udp/224.100.1.176:1176
-#EXTINF:-1,Georgian Channel
-http://46.49.25.122:9001/udp/224.100.1.177:1177
-#EXTINF:-1,Мотоспорт HD
-http://46.49.25.122:9001/udp/224.100.1.178:1178
-#EXTINF:-1,COCU Lilo TV HD
-http://46.49.25.122:9001/udp/224.100.1.179:1179
-#EXTINF:-1,PK TV
-http://46.49.25.122:9001/udp/224.100.1.180:1180
-#EXTINF:-1,Spike
-http://46.49.25.122:9001/udp/224.100.1.181:1181
-#EXTINF:-1,Georgian Channel
-http://46.49.25.122:9001/udp/224.100.1.182:1182
-#EXTINF:-1,Universe Channel HD
-http://46.49.25.122:9001/udp/224.100.1.185:1185
-#EXTINF:-1,Georgian Channel
-http://46.49.25.122:9001/udp/224.100.1.186:1186
-#EXTINF:-1,Eurosport1 HD
-http://46.49.25.122:9001/udp/224.100.1.187:1187
-#EXTINF:-1,РБК
-http://46.49.25.122:9001/udp/224.100.1.188:1188
-#EXTINF:-1,Россия24
-http://46.49.25.122:9001/udp/224.100.1.189:1189
-#EXTINF:-1,Amedia Premium HD
-http://46.49.25.122:9001/udp/224.100.1.190:1190
-#EXTINF:-1,Amedia HIT HD
-http://46.49.25.122:9001/udp/224.100.1.192:1192
-#EXTINF:-1,Amedia 2
-http://46.49.25.122:9001/udp/224.100.1.193:1193
-#EXTINF:-1,Amedia 1 HD
-http://46.49.25.122:9001/udp/224.100.1.194:1194
-#EXTINF:-1,TV 25
-http://46.49.25.122:9001/udp/224.100.1.195:1195
-#EXTINF:-1,Palitra HD
-http://46.49.25.122:9001/udp/224.100.1.196:1196
-#EXTINF:-1,Russia Today Doc
-http://46.49.25.122:9001/udp/224.100.1.197:1197
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.198:1198
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.199:1199
-#EXTINF:-1,BBB HD
-http://46.49.25.122:9001/udp/224.100.1.200:1200
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.201:1201
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.202:1202
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.203:1203
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.204:1204
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.205:1205
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.206:1206
-#EXTINF:-1,GDS HD
-http://46.49.25.122:9001/udp/224.100.1.207:1207
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.208:1208
-#EXTINF:-1,Россия культура
-http://46.49.25.122:9001/udp/224.100.1.209:1209
-#EXTINF:-1,Дом кино
-http://46.49.25.122:9001/udp/224.100.1.210:1210
-#EXTINF:-1,Sony Sci-Fi
-http://46.49.25.122:9001/udp/224.100.1.211:1211
-#EXTINF:-1,Gulli
-http://46.49.25.122:9001/udp/224.100.1.212:1212
-#EXTINF:-1,Mezzo
-http://46.49.25.122:9001/udp/224.100.1.213:1213
-#EXTINF:-1,VH1 Classic
-http://46.49.25.122:9001/udp/224.100.1.214:1214
-#EXTINF:-1,Setanta Sports HD
-http://46.49.25.122:9001/udp/224.100.1.215:1215
-#EXTINF:-1,CNN
-http://46.49.25.122:9001/udp/224.100.1.217:1217
-#EXTINF:-1,Euronews
-http://46.49.25.122:9001/udp/224.100.1.218:1218
-#EXTINF:-1,Nick Jr.
-http://46.49.25.122:9001/udp/224.100.1.219:1219
-#EXTINF:-1,Карусель
-http://46.49.25.122:9001/udp/224.100.1.220:1220
-#EXTINF:-1,DTX
-http://46.49.25.122:9001/udp/224.100.1.221:1221
-#EXTINF:-1,Discovery Science
-http://46.49.25.122:9001/udp/224.100.1.222:1222
-#EXTINF:-1,ТНТ
-http://46.49.25.122:9001/udp/224.100.1.223:1223
-#EXTINF:-1,VH1 European
-http://46.49.25.122:9001/udp/224.100.1.224:1224
-#EXTINF:-1,ID
-http://46.49.25.122:9001/udp/224.100.1.225:1225
-#EXTINF:-1,SONY_ТВ
-http://46.49.25.122:9001/udp/224.100.1.226:1226
-#EXTINF:-1,Bloomberg
-http://46.49.25.122:9001/udp/224.100.1.227:1227
-#EXTINF:-1,AZ TV
-http://46.49.25.122:9001/udp/224.100.1.228:1228
-#EXTINF:-1,FOX
-http://46.49.25.122:9001/udp/224.100.1.229:1229
-#EXTINF:-1,Fine Living
-http://46.49.25.122:9001/udp/224.100.1.231:1231
-#EXTINF:-1,TOK TV HD
-http://46.49.25.122:9001/udp/224.100.1.232:1232
-#EXTINF:-1,MTV Hits
-http://46.49.25.122:9001/udp/224.100.1.235:1235
-#EXTINF:-1,Georgian Channel HD
-http://46.49.25.122:9001/udp/224.100.1.250:1250
-#EXTINF:-1,Paramount Channel
-http://46.49.25.122:9001/udp/224.100.1.252:1252
-#EXTINF:-1,1 канал
-http://46.49.25.122:9001/udp/224.100.1.253:1253
-#EXTINF:-1,Agrogaremo
-http://46.49.25.122:9001/udp/224.100.1.162:1162
-#EXTINF:-1,Batumi
-http://46.49.25.122:9001/udp/224.100.1.39:1039
-#EXTINF:-1,Girchi tv
-http://46.49.25.122:9001/udp/224.100.1.165:1165
-#EXTINF:-1,Chadraki tv
-http://46.49.25.122:9001/udp/224.100.1.191:1191
-#EXTINF:-1,Stereo+
-http://46.49.25.122:9001/udp/224.100.1.251:1251
+
+#EXTINF:0 tvg-name="Main Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Main Channel" tvg-logo="http://mtavari.tv/assets/logo.png" group-title="Georgian",Main Channel
+http://hls.t.stream-dns.net/hls/mtavari_1/index.m3u8
+#EXTINF:0 tvg-name="Formula TV" tvg-language="Georgian" tvg-country="Russia" tvg-id="Formula TV" tvg-logo="https://i.pinimg.com/originals/7d/05/15/7d0515f184bd5ec1c45fdd13f58db242.png" group-title="Georgian",Formula TV
+https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-name="Imedi" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Imedi" tvg-logo="https://i.pinimg.com/originals/be/27/13/be2713fc7cbfef54316fe883a0e26411.png" group-title="Georgian", Imedi
+http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
+#EXTINF:0 tvg-name="Rustavi 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" group-title="Georgian", Rustavi 2
+http://r2.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:0 tvg-name="1 Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="1 Channel" tvg-logo="http://www.myvideo.ge/?CIA=1&ci_c=flsstreams&ci_d=services&ci_m=thumb&chan=gpb2hq" group-title="Georgian",1 Channel
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-name="Pirveli" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Pirveli" tvg-logo="https://i.pinimg.com/originals/53/34/80/533480201a8c2f0aaf81d021297c74c0.png" group-title="Georgian", Pirveli
+http://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
+#EXTINF:0 tvg-name="POSTV" tvg-language="Georgian" tvg-country="Georgia" tvg-id="POSTV" tvg-logo="https://i.pinimg.com/originals/e0/b6/81/e0b6814954108e3ab4413ce9230f3696.png" group-title="Georgian",POSTV
+https://tv.cdn.xsg.ge/c4315/PosTV/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-name="Maestro" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Maestro" tvg-logo="https://i.pinimg.com/originals/77/5b/35/775b351647b67fd0addf806e5f62fd5c.png" group-title="Georgian",Maestro
+https://bozztv.com/36bay2/gin/giniko_gudatv_maestro_800kb_36bay2/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-name="Adjarasport 1" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 1" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir2/file2264.png" group-title="Georgian",Adjarasport 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
+#EXTINF:0 tvg-name="Adjarasport 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 2" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir5/file5664.png" group-title="Georgian",Adjarasport 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
+#EXTINF:0 tvg-name="Silk Universal" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Silk Universal" tvg-logo="https://i.pinimg.com/originals/a6/4f/80/a64f807f5a13563ac41da18beb569292.png" group-title="Georgian",Silk Universal
+http://188.169.194.17:8000/play/silkuniversal/index.m3u8
+#EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
+https://plbl.m9.lfstrm.tv/comedytv/normal/1/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
+#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://cdn.tnt-online.ru/mobile/img/tnt-logo.png" group-title="Russian",TNT
+https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+#EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
+https://plbl.m9.lfstrm.tv/2x2/normal/1/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+#EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
+https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+#EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
+https://plbl.m9.lfstrm.tv/super_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+#EXTINF:0 tvg-name="TV3" tvg-language="Russian" tvg-country="Russia" tvg-id="TV3" tvg-logo="https://i.pinimg.com/originals/63/7b/1e/637b1e5b59ed63aef5b90bdeb560a5ea.png" group-title="Russian",TV3
+https://plbl.m9.lfstrm.tv/tv3_hd_ott/normal/3/index.m3u8?account=0&origin=m9-tproxy&provider_id=0
+#EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
+https://plbl.m9.lfstrm.tv/sts_hd/normal/3/index.m3u8?account=0&origin=m9-live4&provider_id=0
+#EXTINF:0 tvg-name="Amedia Hit" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Hit" tvg-logo="https://i.pinimg.com/originals/86/94/1d/86941dfb1f8b073c11da376d893ececc.png" group-title="Russian",Amedia Hit
+https://plbl.m9.lfstrm.tv/amedia_hit_hd/normal/3/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
+#EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/d1/49/f8/d149f8f1520354735d0d6aab36c282f0.png" group-title="Russian",Amedia Premium
+https://plbl.m9.lfstrm.tv/amedia_premium_hd/normal/3/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
+#EXTINF:0 tvg-name="UFC TV" tvg-language="Russian" tvg-country="Russia" tvg-id="UFC TV" tvg-logo="https://i.pinimg.com/originals/29/46/8c/29468ce2e35519ac763308f7fc6bacb2.png" group-title="Russian",UFC TV
+https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
+#EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/c6/74/1f/c6741f45a31fe2146ee0596910dcd779.png" group-title="Russian",Hunter & Fisherman
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:0 tvg-name="Food Network" tvg-language="English" tvg-country="USA" tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="US",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:0 tvg-name="Pop" tvg-language="English" tvg-country="USA" tvg-id="Pop" tvg-logo="https://i.pinimg.com/originals/77/79/77/7779775b75deef80e5877b7b18f72f6f.png" group-title="US",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="USA" tvg-id="AMC" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="US",AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="VH1" tvg-language="English" tvg-country="USA" tvg-id="VH1" tvg-logo="https://ortus-global.com/files/253/vh1-european-big.png" group-title="US",VH1
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="USA" tvg-id="ESPN" tvg-logo="https://www.nlgja.org/2019/wp-content/uploads/sites/14/2019/07/ESPN-logo-2015-1.png" group-title="US", ESPN
+http://nfl.yrsprts.xyz/hls/x.m3u8?ch=xespn&x=1
+#EXTINF:0 tvg-name="ESPN2" tvg-language="English" tvg-country="USA" tvg-id="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="US",ESPN2
+http://nfl.yrsprts.xyz/hls/x.m3u8?ch=espn2&x=1
+#EXTINF:0 tvg-name="CBS" tvg-language="English" tvg-country="USA" tvg-id="CBS" tvg-logo="https://i.pinimg.com/originals/76/bf/0e/76bf0e1080c15309b0b040da7bb75dd4.png" group-title="US",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 tvg-name="Disney Channel" tvg-language="English" tvg-country="USA" tvg-id="Disney Channel" tvg-logo="http://www.llumac.cat/iconpics/f/37/375149/disney-channel-logo-png.png" group-title="US",Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="National Geographic" tvg-language="English" tvg-country="USA" tvg-id="National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-logo-natgeo-png-pluspng-com-logo-national-geographic-png-1000.png" group-title="US",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 tvg-name="Tennis Channel" tvg-language="English" tvg-country="USA" tvg-id="Tennis Channel" tvg-logo="https://i.pinimg.com/originals/12/63/c3/1263c32ccc5189a79508e5d84b9262a5.png" group-title="US",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
