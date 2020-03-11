@@ -42,7 +42,7 @@ https://plbl.m9.lfstrm.tv/amedia_hit_hd/normal/3/index.m3u8?account=0&origin=m9-
 https://plbl.m9.lfstrm.tv/amedia_premium_hd/normal/3/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
 #EXTINF:0 tvg-name="UFC TV" tvg-language="Russian" tvg-country="Russia" tvg-id="UFC TV" tvg-logo="https://i.pinimg.com/originals/29/46/8c/29468ce2e35519ac763308f7fc6bacb2.png" group-title="Russian",UFC TV
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
-#EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/c6/74/1f/c6741f45a31fe2146ee0596910dcd779.png" group-title="Russian",Hunter & Fisherman
+#EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/4a/be/eb/4abeebd0bde2e21a4366c3a999142bd7.png" group-title="Russian",Hunter & Fisherman
 https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0 tvg-name="Food Network" tvg-language="English" tvg-country="USA" tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="US",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
