@@ -25,7 +25,7 @@ https://hls.tvoti.com/silku/playlist.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 https://plbl.m9.lfstrm.tv/comedytv/normal/1/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://cdn.tnt-online.ru/mobile/img/tnt-logo.png" group-title="Russian",TNT
-https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+http://myott.tv/stream/DTDX4VZ3PXG/135.m3u8
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 https://plbl.m9.lfstrm.tv/2x2/normal/1/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
@@ -33,7 +33,7 @@ https://plbl.m9.lfstrm.tv/super_hd_ott/normal/3/index.m3u8?account=0&origin=m9-d
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
-https://plbl.m9.lfstrm.tv/sts_hd/normal/3/index.m3u8?account=0&origin=m9-live4&provider_id=0
+http://145.239.4.98:8080/CTCM/index.m3u8
 #EXTINF:0 tvg-name="Spike" tvg-language="Russian" tvg-country="Russia" tvg-id="Spike" tvg-logo="https://i.pinimg.com/originals/87/2e/cc/872ecc80d0322bfe8912a37bd9e4e745.png" group-title="Russian",Spike
 https://plbl.m9.lfstrm.tv/spike_hd/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
 #EXTINF:0 tvg-name="Amedia Hit" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Hit" tvg-logo="https://i.pinimg.com/originals/86/94/1d/86941dfb1f8b073c11da376d893ececc.png" group-title="Russian",Amedia Hit
