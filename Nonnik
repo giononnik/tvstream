@@ -31,7 +31,7 @@ https://plbl.m9.lfstrm.tv/2x2/normal/1/index.m3u8?account=0&origin=m9-dvr4&provi
 #EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
 https://plbl.m9.lfstrm.tv/super_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
-https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/3/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
+http://sania1.edmonst.net/iptv/9AMSPS83H7F44A/503/index.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
 http://145.239.4.98:8080/CTCM/index.m3u8
 #EXTINF:0 tvg-name="Spike" tvg-language="Russian" tvg-country="Russia" tvg-id="Spike" tvg-logo="https://i.pinimg.com/originals/87/2e/cc/872ecc80d0322bfe8912a37bd9e4e745.png" group-title="Russian",Spike
