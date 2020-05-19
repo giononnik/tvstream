@@ -39,7 +39,7 @@ https://plbl.m9.lfstrm.tv/spike_hd/normal/3/index.m3u8?account=0&origin=m9-dvr4&
 #EXTINF:0 tvg-name="Amedia Hit" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Hit" tvg-logo="https://i.pinimg.com/originals/86/94/1d/86941dfb1f8b073c11da376d893ececc.png" group-title="Russian",Amedia Hit
 https://plbl.m9.lfstrm.tv/amedia_hit_hd/normal/3/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/d1/49/f8/d149f8f1520354735d0d6aab36c282f0.png" group-title="Russian",Amedia Premium
-https://plbl.m9.lfstrm.tv/amedia_premium_hd/normal/3/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
+http://sania1.edmonst.net/iptv/9AMSPS83H7F44A/229/index.m3u8
 #EXTINF:0 tvg-name="UFC TV" tvg-language="Russian" tvg-country="Russia" tvg-id="UFC TV" tvg-logo="https://i.pinimg.com/originals/29/46/8c/29468ce2e35519ac763308f7fc6bacb2.png" group-title="Russian",UFC TV
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 #EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/1c/aa/60/1caa60bab06c31b05743b95095673063.png" group-title="Russian",Hunter & Fisherman
