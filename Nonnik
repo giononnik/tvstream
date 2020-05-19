@@ -23,7 +23,7 @@ https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:0 tvg-name="Silk Universal" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Silk Universal" tvg-logo="https://i.pinimg.com/originals/a6/4f/80/a64f807f5a13563ac41da18beb569292.png" group-title="Georgian",Silk Universal
 https://hls.tvoti.com/silku/playlist.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
-https://plbl.m9.lfstrm.tv/comedytv/normal/1/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
+http://sania1.edmonst.net/iptv/9AMSPS83H7F44A/104/index.m3u8
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://cdn.tnt-online.ru/mobile/img/tnt-logo.png" group-title="Russian",TNT
 http://sania1.edmonst.net/iptv/9AMSPS83H7F44A/237/index.m3u8
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
