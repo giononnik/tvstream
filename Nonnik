@@ -33,7 +33,7 @@ http://8511211411:8086/udp/238249249:1234
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 https://bl.zxz.su/live/317843/HLS/4614144_3/1565922107/615fc5d2640f59b5600757f90e28edcc/playlist.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
-http://sania1.edmonst.net/iptv/9AMSPS83H7F44A/506/index.m3u8
+http://sc.id-tv.kz/STS.m3u8
 #EXTINF:0 tvg-name="Amedia Hit" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Hit" tvg-logo="https://i.pinimg.com/originals/86/94/1d/86941dfb1f8b073c11da376d893ececc.png" group-title="Russian",Amedia Hit
 http://sania1.edmonst.net/iptv/9AMSPS83H7F44A/556/index.m3u8
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/d1/49/f8/d149f8f1520354735d0d6aab36c282f0.png" group-title="Russian",Amedia Premium
