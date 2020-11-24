@@ -14,13 +14,8 @@ https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 http://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
 #EXTINF:0 tvg-name="GDS" tvg-language="Georgian" tvg-country="Georgia" tvg-id="GDS" tvg-logo="https://i.ibb.co/1q9s8RX/output-onlinepngtools.png" group-title="Georgian", GDS
 http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-name="POSTV" tvg-language="Georgian" tvg-country="Georgia" tvg-id="POSTV" tvg-logo="https://i.ibb.co/3YhrYzL/output-onlinepngtools-2.png" group-title="Georgian",POSTV
-https://tv.cdn.xsg.ge/c4315/PosTV/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Maestro" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Maestro" tvg-logo="https://i.pinimg.com/originals/77/5b/35/775b351647b67fd0addf806e5f62fd5c.png" group-title="Georgian",Maestro
 https://bozztv.com/36bay2/gin/giniko_gudatv_maestro_800kb_36bay2/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-name="Adjarasport 1" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 1" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir2/file2264.png" group-title="Georgian",Adjarasport 1
-https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
-#EXTINF:0 tvg-name="Adjarasport 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 2" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir5/file5664.png" group-title="Georgian",Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
@@ -38,8 +33,6 @@ http://sc.id-tv.kz/STS.m3u8
 http://89.106.234.4/amedia_hit_hd_34_35.m3u8
 #EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/d1/49/f8/d149f8f1520354735d0d6aab36c282f0.png" group-title="Russian",Amedia Premium
 http://ott-cdn.ucom.am/s64/index.m3u8
-#EXTINF:0 tvg-name="UFC TV" tvg-language="Russian" tvg-country="Russia" tvg-id="UFC TV" tvg-logo="https://i.pinimg.com/originals/29/46/8c/29468ce2e35519ac763308f7fc6bacb2.png" group-title="Russian",UFC TV
-https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 #EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/1c/aa/60/1caa60bab06c31b05743b95095673063.png" group-title="Russian",Hunter & Fisherman
 https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0 tvg-name="Food Network" tvg-language="English" tvg-country="USA" tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="US",Food Network
