@@ -23,7 +23,7 @@ https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a9028
 #EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://cdn.tnt-online.ru/mobile/img/tnt-logo.png" group-title="Russian",TNT
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
-http://live02-cdn.tv.ti.ru/dtv/id105_NBN_SG--2x2/03/plst.m3u8
+http://51.68.141.106:8081/tv/2x2/chunks.m3u8
 #EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
 http://188.93.95.34/friday/index.m3u8
 #EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
