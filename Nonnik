@@ -16,7 +16,7 @@ http://tv.cdn.xsg.ge:80/pirvelitv/tracks-v1a1/mono.m3u8
 http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Maestro" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Maestro" tvg-logo="https://i.pinimg.com/originals/77/5b/35/775b351647b67fd0addf806e5f62fd5c.png" group-title="Georgian",Maestro
 https://bozztv.com/36bay2/gin/giniko_gudatv_maestro_800kb_36bay2/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-name="TV4" tvg-language="Georgian" tvg-country="Georgia" tvg-id="TV4" tvg-logo="https://www.myvideo.ge/?CIA=1&ci_c=flsstreams&ci_d=services&ci_m=thumb&chan=qvemoqartli" group-title="Georgian",TV4
+#EXTINF:0 tvg-name="TV4" tvg-language="Georgian" tvg-country="Georgia" tvg-id="TV4" tvg-logo="https://i.ibb.co/qD2RRMr/download.png" group-title="Georgian",TV4
 http://tv.cdn.xsg.ge/qvemoqartli/playlist.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://151.80.101.90/stream/HVTSIEFW95/106.m3u8
