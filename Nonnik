@@ -20,7 +20,7 @@ https://bozztv.com/36bay2/gin/giniko_gudatv_maestro_800kb_36bay2/tracks-v1a1/ind
 http://tv.cdn.xsg.ge/qvemoqartli/playlist.m3u8
 #EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
 http://151.80.101.90/stream/HVTSIEFW95/106.m3u8
-#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://cdn.tnt-online.ru/mobile/img/tnt-logo.png" group-title="Russian",TNT
+#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/ac/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A2%D0%9D%D0%A2%C2%BB_%D1%81_2020_%D0%B3%D0%BE%D0%B4%D0%B0.png" group-title="Russian",TNT
 http://151.80.101.90/stream/HVTSIEFW95/135.m3u8
 #EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
 http://51.68.141.106:8081/tv/2x2/chunks.m3u8
