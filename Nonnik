@@ -18,20 +18,6 @@ http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_gudatv_maestro_800kb_36bay2/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="TV4" tvg-language="Georgian" tvg-country="Georgia" tvg-id="TV4" tvg-logo="https://i.ibb.co/qD2RRMr/download.png" group-title="Georgian",TV4
 http://tv.cdn.xsg.ge/qvemoqartli/playlist.m3u8
-#EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
-http://151.80.101.90/stream/TJVQQ6T1CA/106.m3u8
-#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/ac/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A2%D0%9D%D0%A2%C2%BB_%D1%81_2020_%D0%B3%D0%BE%D0%B4%D0%B0.png" group-title="Russian",TNT
-http://151.80.101.90/stream/TJVQQ6T1CA/135.m3u8
-#EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
-http://151.80.101.90/stream/TJVQQ6T1CA/187.m3u8
-#EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
-http://151.80.101.90/stream/TJVQQ6T1CA/181.m3u8
-#EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
-http://151.80.101.90/stream/TJVQQ6T1CA/138.m3u8
-#EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/1c/aa/60/1caa60bab06c31b05743b95095673063.png" group-title="Russian",Hunter & Fisherman
-https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:0 tvg-name="Food Network" tvg-language="English" tvg-country="USA" tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="US",Food Network
-http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:0 tvg-name="Pop" tvg-language="English" tvg-country="USA" tvg-id="Pop" tvg-logo="https://i.pinimg.com/originals/77/79/77/7779775b75deef80e5877b7b18f72f6f.png" group-title="US",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:0 tvg-name="CBS" tvg-language="English" tvg-country="USA" tvg-id="CBS" tvg-logo="https://i.pinimg.com/originals/76/bf/0e/76bf0e1080c15309b0b040da7bb75dd4.png" group-title="US",CBS
