@@ -18,8 +18,6 @@ http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
 http://tv.cdn.xsg.ge/qvemoqartli/playlist.m3u8
 #EXTINF:0 tvg-name="Pop" tvg-language="English" tvg-country="USA" tvg-id="Pop" tvg-logo="https://i.pinimg.com/originals/77/79/77/7779775b75deef80e5877b7b18f72f6f.png" group-title="US",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:0 tvg-name="CBS" tvg-language="English" tvg-country="USA" tvg-id="CBS" tvg-logo="https://i.pinimg.com/originals/76/bf/0e/76bf0e1080c15309b0b040da7bb75dd4.png" group-title="US",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-name="Tennis Channel" tvg-language="English" tvg-country="USA" tvg-id="Tennis Channel" tvg-logo="https://i.pinimg.com/originals/12/63/c3/1263c32ccc5189a79508e5d84b9262a5.png" group-title="US", Tennis Channel
