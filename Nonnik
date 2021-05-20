@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-name="Main Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Main Channel" tvg-logo="https://i.ibb.co/fvzFmvh/Pics-Art-05-13-02-04-47.png" group-title="Georgian",Main Channel
-https://gintna100.tulix.tv/gin_live/mtavariarxi/cd89cedffa83ef48b36fee9943cfc32c/6068ad19/index.m3u8
+http://streamer.company/mtavari/index.m3u8?token=vikings777
 #EXTINF:0 tvg-name="Formula TV" tvg-language="Georgian" tvg-country="Russia" tvg-id="Formula TV" tvg-logo="https://i.pinimg.com/originals/7d/05/15/7d0515f184bd5ec1c45fdd13f58db242.png" group-title="Georgian",Formula TV
 https://tv.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Rustavi 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" group-title="Georgian", Rustavi 2
@@ -11,7 +11,7 @@ https://tv.cdn.xsg.ge:443/imedihd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="1 Channel" tvg-language="Georgian" tvg-country="Georgia" tvg-id="1 Channel" tvg-logo="http://www.myvideo.ge/?CIA=1&ci_c=flsstreams&ci_d=services&ci_m=thumb&chan=gpb2hq" group-title="Georgian",1 Channel
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Pirveli" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Pirveli" tvg-logo="https://i.pinimg.com/originals/53/34/80/533480201a8c2f0aaf81d021297c74c0.png" group-title="Georgian", Pirveli
-https://gintna100.tulix.tv/gin_live/tv-first/5959ffe2264940e3040f8d457b74244e/6068acb7/index.m3u8
+http://streamer.company/TVPirveli/index.m3u8?token=vikings777
 #EXTINF:0 tvg-name="GDS" tvg-language="Georgian" tvg-country="Georgia" tvg-id="GDS" tvg-logo="https://i.ibb.co/1q9s8RX/output-onlinepngtools.png" group-title="Georgian", GDS
 http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="TV4" tvg-language="Georgian" tvg-country="Georgia" tvg-id="TV4" tvg-logo="https://i.ibb.co/qD2RRMr/download.png" group-title="Georgian",TV4
