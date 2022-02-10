@@ -14,7 +14,7 @@ https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="GDS" tvg-language="Georgian" tvg-country="Georgia" tvg-id="GDS" tvg-logo="https://i.ibb.co/cXmvttc/output-onlinepngtools.png" group-title="Georgian", GDS
 http://tbs01-edge02.cpanel.ge/gdstv/playlist.m3u8
-#EXTINF:0 tvg-name="Adjarasport 1" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 1" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir2/file2264.png" group-title="Georgian",Adjarasport 1
+#EXTINF:0 tvg-name="Adjarasport 1" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 1" tvg-logo="https://i.ibb.co/Gn4Xj0c/Adjarasport1.png" group-title="Georgian",Adjarasport 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
-#EXTINF:0 tvg-name="Adjarasport 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 2" tvg-logo="https://staticsport.adjara.com/sport_tv/dev//dir5/file5664.png" group-title="Georgian",Adjarasport 2
+#EXTINF:0 tvg-name="Adjarasport 2" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Adjarasport 2" tvg-logo="https://i.ibb.co/424mQ2Y/Adjarasport2.png" group-title="Georgian",Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
