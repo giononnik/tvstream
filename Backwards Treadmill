@@ -22,28 +22,8 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:0 tvg-name="Silk Universal" tvg-language="Georgian" tvg-country="Georgia" tvg-id="Silk Universal" tvg-logo="https://i.pinimg.com/originals/a6/4f/80/a64f807f5a13563ac41da18beb569292.png" group-title="Georgian",Silk Universal
 http://188.169.194.17:8000/play/silkuniversal/index.m3u8
-#EXTINF:0 tvg-name="TNT4" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT4" tvg-logo="http://toplogos.ru/images/logo-tnt4.png" group-title="Russian",TNT4
-https://plbl.m9.lfstrm.tv/comedytv/normal/1/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
-#EXTINF:0 tvg-name="TNT" tvg-language="Russian" tvg-country="Russia" tvg-id="TNT" tvg-logo="https://cdn.tnt-online.ru/mobile/img/tnt-logo.png" group-title="Russian",TNT
-https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/2/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
-#EXTINF:0 tvg-name="2x2" tvg-language="Russian" tvg-country="Russia" tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/2x2_телеканал._Логотип.jpg" group-title="Russian",2x2
-https://plbl.m9.lfstrm.tv/2x2/normal/1/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
-#EXTINF:0 tvg-name="Super" tvg-language="Russian" tvg-country="Russia" tvg-id="Super" tvg-logo="http://tele100.ru/wp-content/uploads/2018/08/super.png" group-title="Russian",Super
-https://plbl.m9.lfstrm.tv/super_hd_ott/normal/2/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
-#EXTINF:0 tvg-name="Friday" tvg-language="Russian" tvg-country="Russia" tvg-id="Friday" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/3/38/Пятница%21_%28англофикация%29.png/revision/latest?cb=20160917122551&path-prefix=ru" group-title="Russian",Friday
-https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/2/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
-#EXTINF:0 tvg-name="STS" tvg-language="Russian" tvg-country="Russia" tvg-id="STS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_СТС_23-10-2017.png" group-title="Russian", STS
-https://plbl.m9.lfstrm.tv/sts_hd/normal/2/index.m3u8?account=0&origin=m9-live4&provider_id=0
-#EXTINF:0 tvg-name="Spike" tvg-language="Russian" tvg-country="Russia" tvg-id="Spike" tvg-logo="https://i.pinimg.com/originals/87/2e/cc/872ecc80d0322bfe8912a37bd9e4e745.png" group-title="Russian",Spike
-https://plbl.m9.lfstrm.tv/spike_hd/normal/2/index.m3u8?account=0&origin=m9-dvr4&provider_id=0
-#EXTINF:0 tvg-name="Amedia Hit" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Hit" tvg-logo="https://i.pinimg.com/originals/86/94/1d/86941dfb1f8b073c11da376d893ececc.png" group-title="Russian",Amedia Hit
-https://plbl.m9.lfstrm.tv/amedia_hit_hd/normal/2/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
-#EXTINF:0 tvg-name="Amedia Premium" tvg-language="Russian" tvg-country="Russia" tvg-id="Amedia Premium" tvg-logo="https://i.pinimg.com/originals/d1/49/f8/d149f8f1520354735d0d6aab36c282f0.png" group-title="Russian",Amedia Premium
-https://plbl.m9.lfstrm.tv/amedia_premium_hd/normal/2/index.m3u8?account=0&origin=m9-dvr2&provider_id=0
 #EXTINF:0 tvg-name="UFC TV" tvg-language="Russian" tvg-country="Russia" tvg-id="UFC TV" tvg-logo="https://i.pinimg.com/originals/29/46/8c/29468ce2e35519ac763308f7fc6bacb2.png" group-title="Russian",UFC TV
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
-#EXTINF:0 tvg-name="Hunter & Fisherman" tvg-language="Russian" tvg-country="Russia" tvg-id="Hunter & Fisherman" tvg-logo="https://i.pinimg.com/originals/1c/aa/60/1caa60bab06c31b05743b95095673063.png" group-title="Russian",Hunter & Fisherman
-https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0 tvg-name="Food Network" tvg-language="English" tvg-country="USA" tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="US",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:0 tvg-name="Pop" tvg-language="English" tvg-country="USA" tvg-id="Pop" tvg-logo="https://i.pinimg.com/originals/77/79/77/7779775b75deef80e5877b7b18f72f6f.png" group-title="US",Pop
@@ -58,8 +38,6 @@ http://nfl.yrsprts.xyz/hls/x.m3u8?ch=xespn&x=1
 http://nfl.yrsprts.xyz/hls/x.m3u8?ch=espn2&x=1
 #EXTINF:0 tvg-name="CBS" tvg-language="English" tvg-country="USA" tvg-id="CBS" tvg-logo="https://i.pinimg.com/originals/76/bf/0e/76bf0e1080c15309b0b040da7bb75dd4.png" group-title="US",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0 tvg-name="Disney Channel" tvg-language="English" tvg-country="USA" tvg-id="Disney Channel" tvg-logo="http://www.llumac.cat/iconpics/f/37/375149/disney-channel-logo-png.png" group-title="US",Disney Channel
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="National Geographic" tvg-language="English" tvg-country="USA" tvg-id="National Geographic" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png-logo-natgeo-png-pluspng-com-logo-national-geographic-png-1000.png" group-title="US",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:0 tvg-name="Red Bull TV" tvg-language="English" tvg-country="USA" tvg-id="Red Bull TV" tvg-logo="https://i.pinimg.com/originals/7c/5a/48/7c5a48767aa20f509c3c82e65eb702ba.png" group-title="US",Red Bull TV
